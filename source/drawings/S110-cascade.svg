@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644" height="83" viewBox="0 0 644 83" role="img" aria-label="S110-cascade"><rect width="644" height="83" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="24" y1="45" x2="121" y2="45" stroke="#141414" stroke-width="2"/>
+<path d="M 113,49.48 L 121,45 L 113,40.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="121" y="24" width="80" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="161" y="53" font-family="STIX Two Math" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">H₁(s)</text>
+<line x1="201" y1="45" x2="285" y2="45" stroke="#141414" stroke-width="2"/>
+<path d="M 277,49.48 L 285,45 L 277,40.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="285" y="24" width="80" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="325" y="53" font-family="STIX Two Math" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">H₂(s)</text>
+<line x1="365" y1="45" x2="449" y2="45" stroke="#141414" stroke-width="2"/>
+<path d="M 441,49.48 L 449,45 L 441,40.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="449" y="24" width="80" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="489" y="53" font-family="STIX Two Math" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">H₃(s)</text>
+<line x1="529" y1="45" x2="620" y2="45" stroke="#141414" stroke-width="2"/>
+<path d="M 612,49.48 L 620,45 L 612,40.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="26" y="31" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">F</text>
+<text x="618" y="31" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">Y</text>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="78" viewBox="0 0 132 78">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<rect x="77" y="5" width="49" height="68" fill="white"/>
+<polyline points="23,21 77,21"/>
+<polyline points="23,61 77,61"/>
+<circle cx="23" cy="21" r="2.5" fill="white"/>
+<circle cx="23" cy="61" r="2.5" fill="white"/>
+<polyline points="47,17.7 52,21 47,24.3"/>
+<text x="52" y="42" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="STIX Two Math">İ</text>
+<text x="10" y="26" font-size="17" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="10" y="49.0" font-size="18" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="STIX Two Math">U̇</text>
+<text x="10" y="66" font-size="17" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="101" y="45.0" font-size="21" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">N</text>
+</g>
+</svg>

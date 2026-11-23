@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="988" height="191" viewBox="-6 -6 988 191" role="img">
+<title>带外电路的一端口、戴维南和诺顿等效</title>
+<rect x="-6" y="-6" width="988" height="191" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<rect x="15" y="19" width="90" height="145" fill="white"/>
+<text x="60.0" y="100.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">N</text>
+<rect x="173" y="19" width="84" height="145" fill="white"/>
+<text x="215.0" y="71.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">外</text>
+<text x="215.0" y="97.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">电</text>
+<text x="215.0" y="123.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">路</text>
+<polyline points="105,45 173,45"/>
+<circle cx="140" cy="45" r="3.7" fill="white"/>
+<polyline points="105,137 173,137"/>
+<circle cx="140" cy="137" r="3.7" fill="white"/>
+<g transform="translate(363.0 91.0) rotate(90.0)">
+<polyline points="-46,0 -22,0"/>
+<polyline points="22,0 46,0"/>
+<circle cx="0" cy="0" r="22.0" fill="white"/>
+<polyline points="-22,0 22,0"/>
+</g>
+<text x="335" y="100.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">U<tspan baseline-shift="sub" font-size="73%">oc</tspan></text>
+<text x="351" y="68.0" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="351" y="129.0" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(430.5 45.0) rotate(0.0)">
+<polyline points="-67.5,0 -28,0"/>
+<polyline points="28,0 67.5,0"/>
+<rect x="-28.0" y="-9" width="56" height="18" fill="white"/>
+</g>
+<text x="430.5" y="24" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">0</tspan></text>
+<polyline points="363,137 498,137"/>
+<circle cx="498" cy="45" r="3.7" fill="white"/>
+<circle cx="498" cy="137" r="3.7" fill="white"/>
+<polyline points="498,45 531,45"/>
+<polyline points="498,137 531,137"/>
+<rect x="531" y="19" width="84" height="145" fill="white"/>
+<text x="573.0" y="71.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">外</text>
+<text x="573.0" y="97.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">电</text>
+<text x="573.0" y="123.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">路</text>
+<g transform="translate(712.0 91.0) rotate(90.0)">
+<polyline points="-46,0 -21,0"/>
+<polyline points="21,0 46,0"/>
+<circle cx="0" cy="0" r="21.0" fill="white"/>
+<polyline points="0,-21 0,21"/>
+</g>
+<g transform="translate(712 55.0) rotate(-90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="696" y="66.0" font-size="23" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">I<tspan baseline-shift="sub" font-size="73%">sc</tspan></text>
+<polyline points="712,45 843,45"/>
+<polyline points="712,137 843,137"/>
+<g transform="translate(784.05 91.0) rotate(90.0)">
+<polyline points="-46,0 -27.5,0"/>
+<polyline points="27.5,0 46,0"/>
+<rect x="-27.5" y="-9" width="55" height="18" fill="white"/>
+</g>
+<text x="798.05" y="99.0" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">0</tspan></text>
+<circle cx="784.05" cy="45" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="784.05" cy="137" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="843" cy="45" r="3.7" fill="white"/>
+<circle cx="843" cy="137" r="3.7" fill="white"/>
+<polyline points="843,45 875,45"/>
+<polyline points="843,137 875,137"/>
+<rect x="875" y="19" width="84" height="145" fill="white"/>
+<text x="917.0" y="71.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">外</text>
+<text x="917.0" y="97.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">电</text>
+<text x="917.0" y="123.5" font-size="21" text-anchor="middle" stroke="none" fill="#19232d" font-family="Noto Sans CJK SC" font-style="normal">路</text>
+</g>
+</svg>

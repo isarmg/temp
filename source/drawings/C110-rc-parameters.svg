@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="133" viewBox="0 0 282 133">
+  <title>串联 R 与输出并联 C 的二端口</title>
+  <desc>上方左端经过电阻 R 到达右端端口，右端上、下端子之间并联电容，电容阻抗为 1/(jωC)。两端口上正下负，参考电流均流入网络。</desc>
+  <rect width="282" height="133" fill="#fff"/>
+  <g fill="none" stroke="#151515" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M45,38 H91 M127,38 H237 M45,114 H237 M176,38 V72 M176,79 V114"/>
+    <rect x="91" y="32" width="36" height="12" fill="#fff"/>
+    <path d="M165,72 H187 M165,79 H187 M62,34 L67,38 L62,42 M214,34 L209,38 L214,42"/>
+    <path d="M113,77 H153" stroke-width="1.0"/>
+    <circle cx="45" cy="38" r="2.7" fill="#fff"/><circle cx="45" cy="114" r="2.7" fill="#fff"/>
+    <circle cx="237" cy="38" r="2.7" fill="#fff"/><circle cx="237" cy="114" r="2.7" fill="#fff"/>
+    <circle cx="176" cy="38" r="1.8" fill="#151515"/><circle cx="176" cy="114" r="1.8" fill="#151515"/>
+  </g>
+  <g fill="#151515" text-anchor="middle" font-family="Times New Roman, serif" font-size="15" font-style="italic">
+    <text x="64" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+    <text x="212" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+    <text x="28" y="82" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+    <text x="256" y="82" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+    <text x="109" y="24" font-family="Times New Roman">R</text>
+    <text x="133" y="93" font-family="Times New Roman">jωC</text>
+  </g>
+  <g fill="#151515" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">
+    <text x="33" y="43" font-family="Times New Roman">+</text><text x="249" y="43" font-family="Times New Roman">+</text><text x="33" y="119" font-family="Times New Roman">−</text><text x="249" y="119" font-family="Times New Roman">−</text>
+    <text x="133" y="73" font-family="Times New Roman">1</text>
+  </g>
+  <g fill="#151515" aria-hidden="true">
+    <circle cx="62.5" cy="11.4" r="0.95"/>
+    <circle cx="210.5" cy="11.4" r="0.95"/>
+    <circle cx="26.5" cy="69.4" r="0.95"/>
+    <circle cx="254.5" cy="69.4" r="0.95"/>
+  </g>
+</svg>

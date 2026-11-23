@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="477" viewBox="-6 -6 860 477" role="img">
+<title>电路 N 与电路 N̂ 采用相同的拓扑结构和支路电流参考方向</title>
+<rect x="-6" y="-6" width="860" height="477" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="41,152 41,58"/>
+<polyline points="333,152 333,58"/>
+<polyline points="41,58 333,58"/>
+<g transform="translate(109.0 58.0) rotate(0.0)">
+<polyline points="-46,0 -29,0"/>
+<polyline points="29,0 46,0"/>
+<rect x="-29.0" y="-9" width="58" height="18" fill="white"/>
+</g>
+<text x="109" y="41" font-size="23" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">3 Ω</text>
+<g transform="translate(255.5 58.0) rotate(0.0)">
+<polyline points="-39.5,0 -21.5,0"/>
+<polyline points="21.5,0 39.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="256" y="30" font-size="23" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">2 V</text>
+<text x="220" y="45" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="291" y="45" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<polyline points="41,152 333,152"/>
+<g transform="translate(111.5 152.0) rotate(0.0)">
+<polyline points="-45.5,0 -27,0"/>
+<polyline points="27,0 45.5,0"/>
+<rect x="-27.0" y="-9" width="54" height="18" fill="white"/>
+</g>
+<text x="111" y="134" font-size="23" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">2 Ω</text>
+<g transform="translate(257.5 152.0) rotate(0.0)">
+<polyline points="-45.5,0 -27,0"/>
+<polyline points="27,0 45.5,0"/>
+<rect x="-27.0" y="-9" width="54" height="18" fill="white"/>
+</g>
+<text x="257" y="134" font-size="23" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">1 Ω</text>
+<g transform="translate(61 58) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="57" y="46" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<g transform="translate(61 152) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="57" y="140" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">4</tspan></text>
+<g transform="translate(312 152) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="308" y="140" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">6</tspan></text>
+<polyline points="41,152 41,428"/>
+<g transform="translate(41.0 227.5) rotate(90.0)">
+<polyline points="-43.5,0 -21.5,0"/>
+<polyline points="21.5,0 43.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="52" y="197" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="52" y="267" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="68" y="236" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">16 V</text>
+<g transform="translate(41.0 335.0) rotate(90.0)">
+<polyline points="-44,0 -28.5,0"/>
+<polyline points="28.5,0 44,0"/>
+<rect x="-28.5" y="-9" width="57" height="18" fill="white"/>
+</g>
+<text x="60" y="343" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">1 Ω</text>
+<g transform="translate(41 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="55" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<polyline points="187,152 187,428"/>
+<g transform="translate(187.0 227.5) rotate(90.0)">
+<polyline points="-43.5,0 -21.5,0"/>
+<polyline points="21.5,0 43.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="198" y="197" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="198" y="267" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="214" y="236" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">6 V</text>
+<g transform="translate(187.0 335.0) rotate(90.0)">
+<polyline points="-44,0 -28.5,0"/>
+<polyline points="28.5,0 44,0"/>
+<rect x="-28.5" y="-9" width="57" height="18" fill="white"/>
+</g>
+<text x="206" y="343" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">3 Ω</text>
+<g transform="translate(187 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="201" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">5</tspan></text>
+<polyline points="333,152 333,428"/>
+<g transform="translate(333.0 227.5) rotate(90.0)">
+<polyline points="-43.5,0 -21.5,0"/>
+<polyline points="21.5,0 43.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="344" y="197" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="344" y="267" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="360" y="236" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">4 V</text>
+<g transform="translate(333.0 335.0) rotate(90.0)">
+<polyline points="-44,0 -28.5,0"/>
+<polyline points="28.5,0 44,0"/>
+<rect x="-28.5" y="-9" width="57" height="18" fill="white"/>
+</g>
+<text x="352" y="343" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">2 Ω</text>
+<g transform="translate(333 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="347" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<polyline points="41,428 333,428"/>
+<circle cx="41" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="187" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="333" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="187" cy="428" r="3.4" fill="#19232d" stroke="none"/>
+<text x="30" y="144" font-size="26" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="187" y="139" font-size="26" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="348" y="146" font-size="26" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">c</text>
+<text x="187" y="456" font-size="26" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">d</text>
+<polyline points="458,152 458,58"/>
+<polyline points="750,152 750,58"/>
+<polyline points="458,58 750,58"/>
+<g transform="translate(603.5 58.0) rotate(0.0)">
+<polyline points="-48.5,0 -26,0"/>
+<polyline points="26,0 48.5,0"/>
+<path d="M -26.0 0 L 0 -26.0 L 26.0 0 L 0 26.0 Z" fill="white"/>
+<polyline points="0,-26 0,26"/>
+</g>
+<text x="651" y="40" font-size="26" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">0.5î<tspan baseline-shift="sub" font-size="73%">5</tspan></text>
+<g transform="translate(668 58) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<polyline points="458,152 750,152"/>
+<g transform="translate(528.5 152.0) rotate(0.0)">
+<polyline points="-45.5,0 -27,0"/>
+<polyline points="27,0 45.5,0"/>
+<rect x="-27.0" y="-9" width="54" height="18" fill="white"/>
+</g>
+<text x="528" y="134" font-size="23" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">1 Ω</text>
+<g transform="translate(478 58) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="474" y="46" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<g transform="translate(478 152) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="474" y="140" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">4</tspan></text>
+<g transform="translate(729 152) rotate(0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="725" y="140" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">6</tspan></text>
+<polyline points="458,152 458,428"/>
+<g transform="translate(458.0 257.5) rotate(90.0)">
+<polyline points="-43.5,0 -24,0"/>
+<polyline points="24,0 43.5,0"/>
+<circle cx="0" cy="0" r="24.0" fill="white"/>
+<polyline points="0,-24 0,24"/>
+</g>
+<g transform="translate(458 221) rotate(-90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="487" y="240" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">3 A</text>
+<g transform="translate(458 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="472" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<polyline points="604,152 604,428"/>
+<g transform="translate(604.0 294.5) rotate(90.0)">
+<polyline points="-40.5,0 -29,0"/>
+<polyline points="29,0 40.5,0"/>
+<rect x="-29.0" y="-9" width="58" height="18" fill="white"/>
+</g>
+<text x="621" y="302" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">2 Ω</text>
+<g transform="translate(604 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="618" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">5</tspan></text>
+<polyline points="750,152 750,428"/>
+<g transform="translate(750.0 294.5) rotate(90.0)">
+<polyline points="-40.5,0 -29,0"/>
+<polyline points="29,0 40.5,0"/>
+<rect x="-29.0" y="-9" width="58" height="18" fill="white"/>
+</g>
+<text x="767" y="302" font-size="23" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">5 Ω</text>
+<g transform="translate(750 404) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="764" y="406" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">î<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<polyline points="458,428 750,428"/>
+<circle cx="458" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="604" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="750" cy="152" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="604" cy="428" r="3.4" fill="#19232d" stroke="none"/>
+<text x="447" y="144" font-size="26" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="604" y="139" font-size="26" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="765" y="146" font-size="26" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">c</text>
+<text x="604" y="456" font-size="26" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">d</text>
+</g>
+</svg>

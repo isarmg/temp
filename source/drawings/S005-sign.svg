@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="155" viewBox="0 0 208 155" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>符号函数</title>
+<rect width="208" height="155" fill="#ffffff"/>
+<polyline points="8.00,85.00 199.00,85.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="193.82,88.03 199.00,85.00 193.82,81.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="100.00,142.00 100.00,19.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="103.03,24.18 100.00,19.00 96.97,24.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="198" y="77" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="109" y="21" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">sgn(t)</text>
+<polyline points="100.00,44.00 187.00,44.00" fill="none" stroke="#15191d" stroke-width="2.15"/>
+<polyline points="21.00,127.00 100.00,127.00" fill="none" stroke="#15191d" stroke-width="2.15"/>
+<text x="92" y="49" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">1</text>
+<text x="89" y="105" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">0</text>
+<text x="107" y="133" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="start">−1</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="446" height="129" viewBox="0 0 446 129">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="56,57 56,30 89,30"/>
+<rect x="89" y="25" width="38" height="10" fill="white"/>
+<polyline points="127,30 158,30 158,65"/>
+<polyline points="149,65 167,65"/>
+<polyline points="149,71 167,71"/>
+<polyline points="158,71 158,109 56,109 56,81"/>
+<circle cx="56" cy="69" r="12" fill="white"/>
+<text x="108" y="21" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">R</text>
+<text x="39" y="54" font-size="14" text-anchor="end" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="39" y="74" font-size="16" text-anchor="end" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">u<tspan font-size="69%" baseline-shift="sub">s</tspan>(t)</text>
+<text x="39" y="93" font-size="14" text-anchor="end" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="174" y="54" font-size="14" text-anchor="start" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="174" y="74" font-size="16" text-anchor="start" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">u<tspan font-size="69%" baseline-shift="sub">C</tspan>(t)</text>
+<text x="174" y="93" font-size="14" text-anchor="start" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="138" y="74" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">C</text>
+<polyline points="291,57 291,30 324,30"/>
+<rect x="324" y="25" width="38" height="10" fill="white"/>
+<polyline points="362,30 393,30 393,65"/>
+<polyline points="384,65 402,65"/>
+<polyline points="384,71 402,71"/>
+<polyline points="393,71 393,109 291,109 291,81"/>
+<circle cx="291" cy="69" r="12" fill="white"/>
+<text x="343" y="21" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">R</text>
+<text x="274" y="54" font-size="14" text-anchor="end" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="274" y="74" font-size="16" text-anchor="end" font-style="italic" fill="#181818" stroke="none" id="phasor-n10" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">s</tspan></text>
+<circle cx="265.51" cy="61.09" r="1.02" fill="#181818" stroke="none"/><text x="274" y="93" font-size="14" text-anchor="end" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="409" y="54" font-size="14" text-anchor="start" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="409" y="74" font-size="16" text-anchor="start" font-style="italic" fill="#181818" stroke="none" id="phasor-n13" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">C</tspan></text>
+<circle cx="416.36" cy="61.09" r="1.02" fill="#181818" stroke="none"/><text x="409" y="93" font-size="14" text-anchor="start" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="365" y="60" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">1</text>
+<polyline points="349,66 380,66"/>
+<text x="365" y="80" font-size="15" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">jωC</text>
+<path d="M223,66 H248 M223,72 H248 M241,60 L252,69 L241,78"/>
+</g>
+</svg>

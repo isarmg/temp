@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="403" height="151" viewBox="0 0 403 151">
+<rect width="403" height="151" fill="#fff"/>
+<g fill="none" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16,21 L128,21"/>
+<path d="M16,129 L128,129"/>
+<circle cx="16" cy="21" r="2.5" fill="#fff"/>
+<circle cx="16" cy="129" r="2.5" fill="#fff"/>
+<path d="M237,21 L382,21"/>
+<path d="M237,129 L382,129"/>
+<circle cx="237" cy="21" r="2.5" fill="#fff"/>
+<circle cx="237" cy="129" r="2.5" fill="#fff"/>
+<path d="M67,21 L67,33"/>
+<path d="M67,33 c6,0 6,8 0,8 c6,0 6,8 0,8 c6,0 6,8 0,8 c6,0 6,8 0,8"/>
+<path d="M67,65 L67,70"/>
+<path d="M67,70 L67,82.5"/>
+<rect x="61.5" y="82.5" width="11" height="31" fill="#fff"/>
+<path d="M67,113.5 L67,129"/>
+<path d="M128,21 L128,72"/>
+<path d="M118,72 L138,72"/>
+<path d="M118,78 L138,78"/>
+<path d="M128,78 L128,129"/>
+<text x="52" y="52" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">L</text>
+<text x="52" y="103" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">r</text>
+<text x="111" y="79" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">C</text>
+<path d="M279,21 L279,59.5"/>
+<rect x="273.5" y="59.5" width="11" height="31" fill="#fff"/>
+<path d="M279,90.5 L279,129"/>
+<text x="263" y="80" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">R</text>
+<path d="M331,21 L331,55.5"/>
+<path d="M331,55.5 c7.3125,0 7.3125,9.75 0,9.75 c7.3125,0 7.3125,9.75 0,9.75 c7.3125,0 7.3125,9.75 0,9.75 c7.3125,0 7.3125,9.75 0,9.75"/>
+<path d="M331,94.5 L331,129"/>
+<text x="315" y="80" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">L</text>
+<path d="M382,21 L382,72"/>
+<path d="M372,72 L392,72"/>
+<path d="M372,78 L392,78"/>
+<path d="M382,78 L382,129"/>
+<text x="366" y="80" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">C</text>
+<circle cx="67" cy="21" r="1.7" fill="#151515"/>
+<circle cx="67" cy="129" r="1.7" fill="#151515"/>
+<circle cx="279" cy="21" r="1.7" fill="#151515"/>
+<circle cx="279" cy="129" r="1.7" fill="#151515"/>
+<circle cx="331" cy="21" r="1.7" fill="#151515"/>
+<circle cx="331" cy="129" r="1.7" fill="#151515"/>
+<path d="M152,67 L211,67"/>
+<path d="M207,71 L211,67 L207,63"/>
+<path d="M211,87 L152,87"/>
+<path d="M156,83 L152,87 L156,91"/>
+<text x="168" y="47" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">R =</text>
+<text x="168" y="112" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">r =</text>
+<text x="197" y="40" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">L</text>
+<path d="M185,43 L209,43" stroke-width="1"/>
+<text x="197" y="57" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">Cr</text>
+<text x="197" y="105" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">L</text>
+<path d="M185,108 L209,108" stroke-width="1"/>
+<text x="197" y="122" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">RC</text>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="102" viewBox="0 0 372 102" role="img" aria-label="S121-discrete"><rect width="372" height="102" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="19" y1="54" x2="128" y2="54" stroke="#141414" stroke-width="2"/>
+<path d="M 120,58.48 L 128,54 L 120,49.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="128" y="12" width="108" height="80" fill="white" stroke="#141414" stroke-width="2"/>
+<line x1="236" y1="54" x2="349" y2="54" stroke="#141414" stroke-width="2"/>
+<path d="M 341,58.48 L 349,54 L 341,49.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="21" y="39" font-family="Times New Roman" font-size="24" text-anchor="start" fill="#141414" font-style="italic">f(k)</text>
+<text x="349" y="39" font-family="Times New Roman" font-size="24" text-anchor="end" fill="#141414" font-style="italic">y(k)</text>
+<text x="182" y="43" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">1</text>
+<line x1="145" y1="53" x2="219" y2="53" stroke="#141414" stroke-width="1.55"/>
+<text x="182" y="76" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">z + a</text>
+</g></svg>

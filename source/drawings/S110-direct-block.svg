@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="686" height="292" viewBox="0 0 686 292" role="img" aria-label="S110-direct-block"><rect width="686" height="292" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="25" y1="142" x2="105" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 97,146.48 L 105,142 L 97,137.52" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="149" y1="142" x2="213" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 205,146.48 L 213,142 L 205,137.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="213" y="112" width="48" height="60" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="237" y="150" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">s⁻¹</text>
+<line x1="261" y1="142" x2="367" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 359,146.48 L 367,142 L 359,137.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="367" y="112" width="48" height="60" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="391" y="150" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">s⁻¹</text>
+<line x1="415" y1="142" x2="546" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 538,146.48 L 546,142 L 538,137.52" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="590" y1="142" x2="657" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 649,146.48 L 657,142 L 649,137.52" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="127" cy="142" r="22" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="127" y="150" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414">Σ</text>
+<circle cx="568" cy="142" r="22" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="568" y="150" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414">Σ</text>
+<circle cx="179" cy="142" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="314" cy="142" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="458" cy="142" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<path d="M 179,142 V 41 H 568 V 120" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 563.52,112 L 568,120 L 572.48,112" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 314,142 V 74 H 523 L 552,127" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 544.23,122.132 L 552,127 L 552.09,117.831" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 314,142 V 212 H 160 L 141,159" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 147.917,165.019 L 141,159 L 139.482,168.043" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 458,142 V 249 H 127 V 164" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 131.48,172 L 127,164 L 122.52,172" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="45" y="125" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">F(s)</text>
+<text x="650" y="124" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">Y(s)</text>
+<text x="366" y="33" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">b₂</text>
+<text x="430" y="98" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">b₁</text>
+<text x="486" y="126" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">b₀</text>
+<text x="234" y="204" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">a₁</text>
+<text x="357" y="241" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">a₀</text>
+<text x="94" y="132" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">+</text>
+<text x="111" y="178" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">−</text>
+<text x="160" y="168" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">−</text>
+<text x="582" y="113" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">+</text>
+<text x="531" y="111" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">+</text>
+<text x="526" y="134" font-family="Times New Roman" font-size="16" text-anchor="middle" fill="#141414">+</text>
+</g></svg>

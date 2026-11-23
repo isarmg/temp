@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="83" viewBox="0 0 115 83">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="9,31 106,31"/>
+<polyline points="101,27.7 106,31 101,34.3"/>
+<polyline points="9,72 85,72"/>
+<polyline points="80,68.7 85,72 80,75.3"/>
+<text x="96" y="23" font-size="18" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="STIX Two Math">U̇</text>
+<text x="78" y="61" font-size="18" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="STIX Two Math">İ</text>
+</g>
+</svg>

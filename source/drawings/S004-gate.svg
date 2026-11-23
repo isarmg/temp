@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="148" viewBox="0 0 200 148" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>门函数</title>
+<rect width="200" height="148" fill="#ffffff"/>
+<polyline points="8.00,97.00 190.00,97.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="184.82,100.03 190.00,97.00 184.82,93.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="97.00,139.00 97.00,19.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="100.03,24.18 97.00,19.00 93.97,24.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="189" y="89" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="106" y="21" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">g<tspan dy="3.96" font-size="70%">τ</tspan><tspan dy="-3.96">(t)</tspan></text>
+<polyline points="53.00,97.00 53.00,55.00 142.00,55.00 142.00,97.00" fill="none" stroke="#15191d" stroke-width="2.15"/>
+<text x="89" y="50" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">1</text>
+<text x="89" y="115" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="end">0</text>
+<text x="53" y="116" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">−τ</text>
+<polyline points="40.50,119.00 65.50,119.00" fill="none" stroke="#15191d" stroke-width="1.2"/>
+<text x="53" y="134" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">2</text>
+<text x="142" y="116" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">τ</text>
+<polyline points="131.50,119.00 152.50,119.00" fill="none" stroke="#15191d" stroke-width="1.2"/>
+<text x="142" y="134" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">2</text>
+</svg>

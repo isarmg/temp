@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="269" viewBox="-6 -6 316 269" role="img">
+<title>包含广义节点的支路电流与闭合边界</title>
+<rect x="-6" y="-6" width="316" height="269" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(0 11) rotate(0)">
+<polyline points="18,205 18,27 143,27"/>
+<polyline points="18,205 143,205"/>
+<polyline points="18,27 143,27"/>
+<g transform="translate(78.0 27.0) rotate(0.0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="73" y="11" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<polyline points="143,27 61,116"/>
+<g transform="translate(106.92 66.16) rotate(132.65586752593018)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="80" y="67" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<polyline points="143,27 143,116"/>
+<g transform="translate(143.0 76.84) rotate(90.0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="159" y="69" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<polyline points="143,27 225,116"/>
+<g transform="translate(188.1 75.95) rotate(47.344132474069845)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="220" y="70" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">4</tspan></text>
+<polyline points="61,116 143,116"/>
+<g transform="translate(110.19999999999999 116.0) rotate(0.0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="105" y="98" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">5</tspan></text>
+<polyline points="143,116 225,116"/>
+<g transform="translate(192.2 116.0) rotate(0.0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="183" y="98" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">6</tspan></text>
+<polyline points="61,116 143,205"/>
+<g transform="translate(111.84 171.18) rotate(47.344132474069845)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="84" y="178" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">7</tspan></text>
+<polyline points="143,116 143,205"/>
+<g transform="translate(143.0 169.4) rotate(90.0)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="157" y="174" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">8</tspan></text>
+<polyline points="225,116 143,205"/>
+<g transform="translate(177.44 167.62) rotate(132.65586752593018)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="216" y="180" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">9</tspan></text>
+<ellipse cx="200" cy="142" rx="79" ry="66" stroke-dasharray="7 6"/>
+<circle cx="143" cy="27" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="61" cy="116" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="143" cy="116" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="225" cy="116" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="143" cy="205" r="3.4" fill="#19232d" stroke="none"/>
+</g>
+</g>
+</svg>

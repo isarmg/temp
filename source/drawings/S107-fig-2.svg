@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="774" height="328" viewBox="0 0 774 328" role="img" aria-label="S107-fig-2"><rect width="774" height="328" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 267,137 C 267,85.16 320.58,41 381,41 C 441.42,41 495,85.16 495,137" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 373,45.48 L 381,41 L 373,36.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="381" y="31" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414" font-style="italic">2</text>
+<path d="M 603,137 C 603,214.76 500.54,281 385,281 C 269.46,281 167,214.76 167,137" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 393,276.52 L 385,281 L 393,285.48" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="385" y="306" font-family="STIX Two Math" font-size="21" text-anchor="middle" fill="#141414" font-style="italic">−G₁</text>
+<path d="M 267,137 C 267,159.68 243.5,179 217,179 C 190.5,179 167,159.68 167,137" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 225,174.52 L 217,179 L 225,183.48" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="217" y="198" font-family="STIX Two Math" font-size="21" text-anchor="middle" fill="#141414" font-style="italic">−G₂</text>
+<path d="M 495,137 C 495,159.68 469.385,179 440.5,179 C 411.615,179 386,159.68 386,137" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 448.5,174.52 L 440.5,179 L 448.5,183.48" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="440.5" y="198" font-family="STIX Two Math" font-size="21" text-anchor="middle" fill="#141414" font-style="italic">−G₃</text>
+<path d="M 603,137 C 603,159.68 577.62,179 549,179 C 520.38,179 495,159.68 495,137" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 557,174.52 L 549,179 L 557,183.48" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="549" y="198" font-family="STIX Two Math" font-size="21" text-anchor="middle" fill="#141414" font-style="italic">−G₄</text>
+<line x1="63" y1="137" x2="167" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 107,141.48 L 115,137 L 107,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="115" y="123" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">H₁</text>
+<line x1="167" y1="137" x2="267" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 209,141.48 L 217,137 L 209,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="217" y="123" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">H₂</text>
+<line x1="267" y1="137" x2="386" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 318.5,141.48 L 326.5,137 L 318.5,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="326.5" y="123" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">1</text>
+<line x1="386" y1="137" x2="495" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 432.5,141.48 L 440.5,137 L 432.5,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="440.5" y="123" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">H₃</text>
+<line x1="495" y1="137" x2="603" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 541,141.48 L 549,137 L 541,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="549" y="123" font-family="STIX Two Math" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">H₄</text>
+<line x1="603" y1="137" x2="709" y2="137" stroke="#141414" stroke-width="2"/>
+<path d="M 648,141.48 L 656,137 L 648,132.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="656" y="123" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414" font-style="italic">1</text>
+<circle cx="63" cy="137" r="3.2" fill="white" stroke="#141414" stroke-width="1.55"/>
+<circle cx="167" cy="137" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="267" cy="137" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="386" cy="137" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="495" cy="137" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="603" cy="137" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="709" cy="137" r="3.2" fill="white" stroke="#141414" stroke-width="1.55"/>
+<text x="63" y="119" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">F(s)</text>
+<text x="709" y="119" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">Y(s)</text>
+</g></svg>

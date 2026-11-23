@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987" height="156" viewBox="-6 -6 987 156" role="img">
+<title>端口伏安关系相同的电路可以等效互换</title>
+<rect x="-6" y="-6" width="987" height="156" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<rect x="111" y="15" width="82" height="115" fill="white"/>
+<text x="152.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">B</text>
+<polyline points="53,39 111,39"/>
+<polyline points="53,105 111,105"/>
+<g transform="translate(81 39) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="81" y="28" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="37" y="56" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="37" y="100" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="35" y="80.32" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="53" cy="39" r="3.7" fill="white"/>
+<circle cx="53" cy="105" r="3.7" fill="white"/>
+<g transform="translate(18 0)">
+<rect x="284" y="15" width="82" height="115" fill="white"/>
+<text x="325.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">C</text>
+<polyline points="226,39 284,39"/>
+<polyline points="226,105 284,105"/>
+<g transform="translate(254 39) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="254" y="28" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="210" y="56" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="210" y="100" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="208" y="80.32" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="226" cy="39" r="3.7" fill="white"/>
+<circle cx="226" cy="105" r="3.7" fill="white"/>
+</g>
+<text x="409" y="84" font-size="35" text-anchor="middle" stroke="none" fill="#19232d" font-family="STIX Two Math" font-style="normal">⇒</text>
+<rect x="435" y="15" width="82" height="115" fill="white"/>
+<text x="476.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">A</text>
+<rect x="572" y="15" width="82" height="115" fill="white"/>
+<text x="613.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">B</text>
+<polyline points="517,39 572,39"/>
+<polyline points="517,105 572,105"/>
+<rect x="718" y="15" width="82" height="115" fill="white"/>
+<text x="759.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">A</text>
+<rect x="855" y="15" width="82" height="115" fill="white"/>
+<text x="896.0" y="81.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">C</text>
+<polyline points="800,39 855,39"/>
+<polyline points="800,105 855,105"/>
+<text x="688" y="83" font-size="31" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">=</text>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="248" viewBox="0 0 375 248" role="img" aria-label="S103-vectors"><rect width="375" height="248" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="15" y1="211" x2="330" y2="211" stroke="#141414" stroke-width="2"/>
+<path d="M 323,214.92 L 330,211 L 323,207.08" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="180" y1="239" x2="180" y2="21" stroke="#141414" stroke-width="2"/>
+<path d="M 183.92,28 L 180,21 L 176.08,28" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="337" y="216" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">σ</text>
+<text x="187" y="27" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">jω</text>
+<line x1="56" y1="139" x2="346" y2="139" stroke="#141414" stroke-width="1.35" stroke-dasharray="6 5"/>
+<line x1="180" y1="211" x2="66" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 75.1638,142.31 L 66,142 L 70.5242,149.975" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="180" y1="211" x2="296" y2="142" stroke="#141414" stroke-width="2"/>
+<path d="M 291.415,149.94 L 296,142 L 286.834,142.239" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="62" y1="139" x2="177" y2="69" stroke="#141414" stroke-width="2"/>
+<path d="M 172.496,76.9864 L 177,69 L 167.837,69.3328" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="300" y1="139" x2="183" y2="69" stroke="#141414" stroke-width="2"/>
+<path d="M 192.165,69.2629 L 183,69 L 187.565,76.9518" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 87,139 A 25,25 0 0,0 83.35,126" fill="none" stroke="#141414" stroke-width="1.5"/>
+<path d="M 325,139 A 25,25 0 0,0 278.6,126" fill="none" stroke="#141414" stroke-width="1.5"/>
+<line x1="57" y1="134" x2="67" y2="144" stroke="#141414" stroke-width="2"/>
+<line x1="57" y1="144" x2="67" y2="134" stroke="#141414" stroke-width="2"/>
+<circle cx="300" cy="139" r="3.2" fill="white" stroke="#141414" stroke-width="1.55"/>
+<circle cx="180" cy="67" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<text x="39" y="147" font-family="Times New Roman" font-style="italic" font-size="20" text-anchor="middle" fill="#141414">p<tspan font-size="14.8" dy="5.2">i</tspan></text>
+<text x="321" y="170" font-family="Times New Roman" font-style="italic" font-size="20" text-anchor="middle" fill="#141414">ξ<tspan font-size="14.8" dy="5.2">j</tspan></text>
+<text x="160" y="58" font-family="Times New Roman" font-size="19" text-anchor="middle" fill="#141414" font-style="italic">jω</text>
+<text x="84" y="83" font-family="Times New Roman" font-style="italic" font-size="20" text-anchor="middle" fill="#141414">jω − p<tspan font-size="14.8" dy="5.2">i</tspan></text>
+<text x="275" y="82" font-family="Times New Roman" font-style="italic" font-size="20" text-anchor="middle" fill="#141414">jω − ξ<tspan font-size="14.8" dy="5.2">j</tspan></text>
+<text x="100" y="129" font-family="Times New Roman" font-style="italic" font-size="18" text-anchor="middle" fill="#141414">θ<tspan font-size="13.32" dy="4.68">i</tspan></text>
+<text x="321" y="114" font-family="Times New Roman" font-style="italic" font-size="18" text-anchor="middle" fill="#141414">φ<tspan font-size="13.32" dy="4.68">j</tspan></text>
+<text x="149" y="128" font-family="Times New Roman" font-style="italic" font-size="18" text-anchor="middle" fill="#141414">A<tspan font-size="13.32" dy="4.68">i</tspan></text>
+<text x="222" y="128" font-family="Times New Roman" font-style="italic" font-size="18" text-anchor="middle" fill="#141414">B<tspan font-size="13.32" dy="4.68">j</tspan></text>
+</g></svg>

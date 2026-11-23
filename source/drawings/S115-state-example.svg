@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-label="S115-state-example"><rect width="720" height="300" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 105,156 V 70 H 180 M 253,70 H 345" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="180" y="55" width="73" height="30" fill="white" stroke="#141414" stroke-width="2"/>
+<path d="M 312,76.16 L 323,70 L 312,63.84" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 345,70 A 11,11 0 0,1 367,70 A 11,11 0 0,1 389,70 A 11,11 0 0,1 411,70 A 11,11 0 0,1 433,70 H 500" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="500" y="55" width="73" height="30" fill="white" stroke="#141414" stroke-width="2"/>
+<path d="M 573,70 H 624 V 156" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 594,76.16 L 605,70 L 594,63.84" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 624,204 V 263 H 105 V 204" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="105" cy="180" r="24" fill="white" stroke="#141414" stroke-width="2"/>
+<circle cx="624" cy="180" r="24" fill="white" stroke="#141414" stroke-width="2"/>
+<path d="M 464,70 V 149 M 464,165 V 263" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="444" y1="149" x2="484" y2="149" stroke="#141414" stroke-width="2"/>
+<line x1="444" y1="165" x2="484" y2="165" stroke="#141414" stroke-width="2"/>
+<circle cx="464" cy="70" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="464" cy="263" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<text x="215" y="40" font-family="Times New Roman" font-style="italic" font-size="25" text-anchor="middle" fill="#141414">R<tspan font-size="18.5" dy="6.5">1</tspan></text>
+<text x="306" y="44" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">i<tspan font-size="17.76" dy="6.24">L</tspan></text>
+<text x="390" y="40" font-family="Times New Roman" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">L</text>
+<text x="464" y="46" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">a</text>
+<text x="536" y="40" font-family="Times New Roman" font-style="italic" font-size="25" text-anchor="middle" fill="#141414">R<tspan font-size="18.5" dy="6.5">2</tspan></text>
+<text x="600" y="44" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">i<tspan font-size="17.76" dy="6.24">R2</tspan></text>
+<text x="218" y="120" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">u<tspan font-size="17.76" dy="6.24">R1</tspan></text>
+<text x="407" y="162" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">u<tspan font-size="17.76" dy="6.24">C</tspan></text>
+<text x="510" y="163" font-family="Times New Roman" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">C</text>
+<text x="45" y="186" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">u<tspan font-size="17.76" dy="6.24">S1</tspan></text>
+<text x="678" y="186" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">u<tspan font-size="17.76" dy="6.24">S2</tspan></text>
+<text x="166" y="108" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">+</text>
+<text x="265" y="108" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">−</text>
+<text x="411" y="124" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">+</text>
+<text x="411" y="200" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">−</text>
+<text x="72" y="153" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">+</text>
+<text x="72" y="216" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">−</text>
+<text x="652" y="153" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">+</text>
+<text x="652" y="216" font-family="Times New Roman" font-size="21" text-anchor="middle" fill="#141414">−</text>
+</g></svg>

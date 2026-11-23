@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="838" height="203" viewBox="-6 -6 838 203" role="img">
+<title>互易定理第一种形式</title>
+<rect x="-6" y="-6" width="838" height="203" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<rect x="139" y="19" width="112" height="153" fill="white"/>
+<text x="195.0" y="104.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic"/>
+<polyline points="139,43 70,43"/>
+<polyline points="139,148 70,148"/>
+<g transform="translate(70.0 95.5) rotate(90.0)">
+<polyline points="-52.5,0 -21.5,0"/>
+<polyline points="21.5,0 52.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="44" y="103.5" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u<tspan baseline-shift="sub" font-size="73%">s1</tspan></text>
+<text x="58" y="65" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="58" y="133" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<polyline points="251,43 320,43"/>
+<polyline points="251,148 320,148"/>
+<polyline points="320,43 320,148"/>
+<g transform="translate(320 99.5) rotate(90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="337" y="105.5" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<rect x="529" y="19" width="112" height="153" fill="white"/>
+<text x="585.0" y="104.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">N<tspan baseline-shift="sub" font-size="73%">R</tspan></text>
+<polyline points="529,43 460,43"/>
+<polyline points="529,148 460,148"/>
+<polyline points="460,43 460,148"/>
+<g transform="translate(460 99.5) rotate(90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="443" y="105.5" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<polyline points="641,43 710,43"/>
+<polyline points="641,148 710,148"/>
+<g transform="translate(710.0 95.5) rotate(90.0)">
+<polyline points="-52.5,0 -21.5,0"/>
+<polyline points="21.5,0 52.5,0"/>
+<circle cx="0" cy="0" r="21.5" fill="white"/>
+<polyline points="-21.5,0 21.5,0"/>
+</g>
+<text x="736" y="103.5" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u<tspan baseline-shift="sub" font-size="73%">s2</tspan></text>
+<text x="722" y="65" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="722" y="133" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+</g>
+</svg>

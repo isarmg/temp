@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="542" height="154" viewBox="0 0 542 154">
+  <title>T 形和 π 形二端口网络</title>
+  <desc>T 形网络的 Z1、Z3 是串联臂，Z2 是中间并联臂。π 形网络的 Z2 是上方串联臂，Z1、Z3 是并联臂。各图两端口上正下负，两端口电流均流入网络。</desc>
+  <rect width="542" height="154" fill="#fff"/>
+  <g fill="none" stroke="#151515" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M45,38 H80 M110,38 H150 M180,38 H215 M45,116 H215 M130,38 V67 M130,96 V116"/>
+    <rect x="80" y="32" width="30" height="12" fill="#fff"/>
+    <rect x="150" y="32" width="30" height="12" fill="#fff"/>
+    <rect x="124" y="67" width="12" height="29" fill="#fff"/>
+    <path d="M64,34 L69,38 L64,42 M196,34 L191,38 L196,42"/>
+    <circle cx="45" cy="38" r="2.7" fill="#fff"/><circle cx="45" cy="116" r="2.7" fill="#fff"/>
+    <circle cx="215" cy="38" r="2.7" fill="#fff"/><circle cx="215" cy="116" r="2.7" fill="#fff"/>
+    <circle cx="130" cy="38" r="1.8" fill="#151515"/><circle cx="130" cy="116" r="1.8" fill="#151515"/>
+    <g transform="translate(282)">
+      <path d="M45,38 H114 M146,38 H215 M45,116 H215 M82,38 V67 M82,96 V116 M178,38 V67 M178,96 V116"/>
+      <rect x="114" y="32" width="32" height="12" fill="#fff"/>
+      <rect x="76" y="67" width="12" height="29" fill="#fff"/>
+      <rect x="172" y="67" width="12" height="29" fill="#fff"/>
+      <path d="M64,34 L69,38 L64,42 M196,34 L191,38 L196,42"/>
+      <circle cx="45" cy="38" r="2.7" fill="#fff"/><circle cx="45" cy="116" r="2.7" fill="#fff"/>
+      <circle cx="215" cy="38" r="2.7" fill="#fff"/><circle cx="215" cy="116" r="2.7" fill="#fff"/>
+      <circle cx="82" cy="38" r="1.8" fill="#151515"/><circle cx="82" cy="116" r="1.8" fill="#151515"/>
+      <circle cx="178" cy="38" r="1.8" fill="#151515"/><circle cx="178" cy="116" r="1.8" fill="#151515"/>
+    </g>
+  </g>
+  <g fill="#151515" text-anchor="middle" font-family="Times New Roman, serif" font-size="15" font-style="italic">
+    <text x="66" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+    <text x="194" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+    <text x="27" y="81" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+    <text x="234" y="81" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+    <text x="95" y="61" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+    <text x="149" y="85" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+    <text x="165" y="61" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">3</tspan></text>
+    <g transform="translate(282)">
+      <text x="66" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+      <text x="194" y="24" font-family="Times New Roman">I<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+      <text x="27" y="81" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+      <text x="234" y="81" font-family="Times New Roman">U<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+      <text x="101" y="85" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+      <text x="130" y="61" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+      <text x="197" y="85" font-family="Times New Roman">Z<tspan baseline-shift="sub" font-size="69%">3</tspan></text>
+    </g>
+  </g>
+  <g fill="#151515" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">
+    <text x="33" y="43" font-family="Times New Roman">+</text><text x="227" y="43" font-family="Times New Roman">+</text><text x="33" y="121" font-family="Times New Roman">−</text><text x="227" y="121" font-family="Times New Roman">−</text>
+    <g transform="translate(282)">
+      <text x="33" y="43" font-family="Times New Roman">+</text><text x="227" y="43" font-family="Times New Roman">+</text><text x="33" y="121" font-family="Times New Roman">−</text><text x="227" y="121" font-family="Times New Roman">−</text>
+    </g>
+    <text x="104" y="142" text-anchor="end" font-size="14" font-family="Times New Roman">T</text>
+    <text x="386" y="142" text-anchor="end" font-size="14" font-family="Times New Roman">π</text>
+  </g>
+  <g fill="#151515" font-family="Noto Sans CJK SC, sans-serif" font-size="13">
+    <text x="109" y="142" font-family="Noto Sans CJK SC">形二端口</text>
+    <text x="391" y="142" font-family="Noto Sans CJK SC">形二端口</text>
+  </g>
+  <g fill="#151515" aria-hidden="true">
+    <circle cx="64.5" cy="11.4" r="0.95"/>
+    <circle cx="192.5" cy="11.4" r="0.95"/>
+    <circle cx="25.5" cy="68.4" r="0.95"/>
+    <circle cx="232.5" cy="68.4" r="0.95"/>
+    <circle cx="346.5" cy="11.4" r="0.95"/>
+    <circle cx="474.5" cy="11.4" r="0.95"/>
+    <circle cx="307.5" cy="68.4" r="0.95"/>
+    <circle cx="514.5" cy="68.4" r="0.95"/>
+  </g>
+</svg>

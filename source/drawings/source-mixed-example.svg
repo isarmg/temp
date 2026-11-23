@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="228" viewBox="0 0 760 228" role="img"
+     aria-label="混合电源电路的端口等效">
+  <desc>左图有两个并联电源支路，中图去掉与理想电压源并联的电流源并变换下半部分，右图给出串联等效和流出 a 端的电流参考方向。</desc>
+  <g fill="none" stroke="#19232d" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <g aria-label="原电路">
+      <path d="M67 58V35H232 M67 92V132 M67 176V193H232
+               M67 114H182V134 M182 168V193 M182 114V92 M182 58V35"/>
+      <rect x="59" y="132" width="16" height="44" fill="white"/>
+      <circle cx="67" cy="75" r="17" fill="white"/>
+      <path d="M67 58V92"/>
+      <circle cx="182" cy="75" r="17" fill="white"/>
+      <circle cx="182" cy="151" r="17" fill="white"/>
+      <path d="M182 84V66 M177 71L182 66 187 71 M182 160V142 M177 147L182 142 187 147"/>
+      <circle cx="232" cy="35" r="3.6" fill="white"/>
+      <circle cx="232" cy="193" r="3.6" fill="white"/>
+      <g fill="#19232d" stroke="none">
+        <circle cx="67" cy="114" r="3.4"/>
+        <circle cx="182" cy="35" r="3.4"/>
+        <circle cx="182" cy="114" r="3.4"/>
+        <circle cx="182" cy="193" r="3.4"/>
+      </g>
+    </g>
+    <g aria-label="电源变换后">
+      <path d="M371 51V35H474 M371 81V94 M371 132V148 M371 178V193H474"/>
+      <circle cx="371" cy="66" r="15" fill="white"/>
+      <path d="M371 51V81"/>
+      <rect x="363" y="94" width="16" height="38" fill="white"/>
+      <circle cx="371" cy="163" r="15" fill="white"/>
+      <path d="M371 148V178"/>
+      <circle cx="474" cy="35" r="3.6" fill="white"/>
+      <circle cx="474" cy="193" r="3.6" fill="white"/>
+    </g>
+    <g aria-label="端口串联等效">
+      <path d="M625 97V35H651 M689 35H731 M625 131V193H731"/>
+      <circle cx="625" cy="114" r="17" fill="white"/>
+      <path d="M625 97V131"/>
+      <rect x="651" y="27" width="38" height="16" fill="white"/>
+      <path d="M705 29L713 35 705 41"/>
+      <circle cx="731" cy="35" r="3.6" fill="white"/>
+      <circle cx="731" cy="193" r="3.6" fill="white"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#19232d" stroke-width="1.65" stroke-linecap="round">
+    <path d="M50 51H59 M54.5 46.5V55.5 M50 100H59
+             M352 45H361 M356.5 40.5V49.5 M352 87H361
+             M352 142H361 M356.5 137.5V146.5 M352 185H361
+             M608 90H617 M612.5 85.5V94.5 M608 139H617"/>
+  </g>
+  <g fill="#19232d" font-family="Times New Roman" font-size="23" font-style="italic">
+    <g text-anchor="end">
+      <text x="42" y="82">U<tspan baseline-shift="sub" font-size="14">s</tspan></text>
+      <text x="43" y="161">R</text>
+      <text x="341" y="73">U<tspan baseline-shift="sub" font-size="14">s</tspan></text>
+      <text x="345" y="120">R</text>
+      <text x="339" y="170">RI<tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <text x="597" y="121">U<tspan baseline-shift="sub" font-size="14" font-style="normal">eq</tspan></text>
+    </g>
+    <text x="207" y="82">I<tspan baseline-shift="sub" font-size="14" font-style="normal">1</tspan></text>
+    <text x="207" y="158">I<tspan baseline-shift="sub" font-size="14" font-style="normal">2</tspan></text>
+    <text x="195" y="120">m</text>
+    <text x="241" y="42">a</text>
+    <text x="241" y="200">b</text>
+    <text x="483" y="42">a</text>
+    <text x="483" y="200">b</text>
+    <text x="740" y="42">a</text>
+    <text x="740" y="200">b</text>
+    <text x="670" y="68" text-anchor="middle">R</text>
+    <text x="709" y="24" text-anchor="middle">i</text>
+  </g>
+  <g fill="none" stroke="#19232d" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M263.5 109H298.5 M263.5 119H298.5 M271 101L259 114 271 127 M291 101L303 114 291 127"/>
+    <path d="M511.5 109H546.5 M511.5 119H546.5 M519 101L507 114 519 127 M539 101L551 114 539 127"/>
+  </g>
+</svg>

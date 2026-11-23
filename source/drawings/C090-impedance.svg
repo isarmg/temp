@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="135" viewBox="0 0 180 135">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="37,23 78,23 78,43"/>
+<polyline points="78,83 78,105 37,105"/>
+<polyline points="144,23 104,23 104,43"/>
+<polyline points="104,83 104,105 144,105"/>
+<path d="M 0,0 a 5,5 0 0 1 10,0 a 5,5 0 0 1 10,0 a 5,5 0 0 1 10,0 a 5,5 0 0 1 10,0" transform="translate(78 43) rotate(90)"/>
+<path d="M 0,0 a 5,5 0 0 0 10,0 a 5,5 0 0 0 10,0 a 5,5 0 0 0 10,0 a 5,5 0 0 0 10,0" transform="translate(104 43) rotate(90)"/>
+<circle cx="72" cy="44" r="2.25" fill="#181818" stroke="none"/>
+<circle cx="110" cy="44" r="2.25" fill="#181818" stroke="none"/>
+<polyline points="144,23 144,47"/>
+<rect x="139" y="47" width="10" height="33" fill="white"/>
+<polyline points="144,80 144,105"/>
+<circle cx="37" cy="23" r="2.5" fill="white"/>
+<circle cx="37" cy="105" r="2.5" fill="white"/>
+<circle cx="144" cy="23" r="2.5" fill="white"/>
+<circle cx="144" cy="105" r="2.5" fill="white"/>
+<polyline points="15,111 15,63 37,63"/>
+<polyline points="32,59.7 37,63 32,66.3"/>
+<text x="20" y="125" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">Z<tspan font-size="69%" baseline-shift="sub">in</tspan></text>
+<text x="163" y="69" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">Z<tspan font-size="69%" baseline-shift="sub">L</tspan></text>
+<text x="91" y="17" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">n : 1</text>
+</g>
+</svg>

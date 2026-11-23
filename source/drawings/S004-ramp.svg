@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="154" viewBox="0 0 154 154" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>斜升函数</title>
+<rect width="154" height="154" fill="#ffffff"/>
+<polyline points="8.00,122.00 145.00,122.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="139.82,125.03 145.00,122.00 139.82,118.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="30.00,144.00 30.00,20.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="33.03,25.18 30.00,20.00 26.97,25.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="144" y="114" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="39" y="22" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">r(t)</text>
+<polyline points="30.00,122.00 121.00,35.00" fill="none" stroke="#15191d" stroke-width="2.3"/>
+<text x="40" y="140" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">0</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="191" viewBox="-6 -6 504 191" role="img">
+<title>无伴电流源位于两个网孔的公共支路</title>
+<rect x="-6" y="-6" width="504" height="191" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(160.0 45.0) rotate(0.0)">
+<polyline points="-82,0 -28.5,0"/>
+<polyline points="28.5,0 82,0"/>
+<rect x="-28.5" y="-9" width="57" height="18" fill="white"/>
+</g>
+<text x="160.0" y="25" font-size="24" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<g transform="translate(324.0 45.0) rotate(0.0)">
+<polyline points="-82,0 -28.5,0"/>
+<polyline points="28.5,0 82,0"/>
+<rect x="-28.5" y="-9" width="57" height="18" fill="white"/>
+</g>
+<text x="324.0" y="25" font-size="24" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<polyline points="78,154 406,154"/>
+<g transform="translate(78.0 99.5) rotate(90.0)">
+<polyline points="-54.5,0 -20.5,0"/>
+<polyline points="20.5,0 54.5,0"/>
+<circle cx="0" cy="0" r="20.5" fill="white"/>
+<polyline points="-20.5,0 20.5,0"/>
+</g>
+<text x="46" y="107.5" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u<tspan baseline-shift="sub" font-size="73%">s1</tspan></text>
+<text x="63" y="74.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="63" y="136.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(406.0 99.5) rotate(90.0)">
+<polyline points="-54.5,0 -20.5,0"/>
+<polyline points="20.5,0 54.5,0"/>
+<circle cx="0" cy="0" r="20.5" fill="white"/>
+<polyline points="-20.5,0 20.5,0"/>
+</g>
+<text x="438" y="107.5" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u<tspan baseline-shift="sub" font-size="73%">s2</tspan></text>
+<text x="421" y="74.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="421" y="136.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(242.0 99.5) rotate(90.0)">
+<polyline points="-54.5,0 -20.5,0"/>
+<polyline points="20.5,0 54.5,0"/>
+<circle cx="0" cy="0" r="20.5" fill="white"/>
+<polyline points="0,-20.5 0,20.5"/>
+</g>
+<g transform="translate(242 65.5) rotate(-90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="256" y="72.5" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">s</tspan></text>
+<text x="225" y="75.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="225" y="135.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="210" y="107.5" font-size="24" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="242" cy="45" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="242" cy="154" r="3.4" fill="#19232d" stroke="none"/>
+<path d="M 137.005 92.775 A 23 23 0 1 1 173.784 117.119" stroke-width="2.2"/>
+<g transform="translate(173.78411502279042 117.11902219173649) rotate(140)">
+<polyline points="-6,-4.38 0,0 -6,4.38"/>
+</g>
+<text x="159" y="106.5" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<path d="M 310.005 92.775 A 23 23 0 1 1 346.784 117.119" stroke-width="2.2"/>
+<g transform="translate(346.7841150227904 117.11902219173649) rotate(140)">
+<polyline points="-6,-4.38 0,0 -6,4.38"/>
+</g>
+<text x="332" y="106.5" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+</g>
+</svg>

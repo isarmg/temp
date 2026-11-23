@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="140" viewBox="0 0 256 140">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="23,48 54,48"/>
+<rect x="54" y="43" width="35" height="10" fill="white"/>
+<polyline points="89,48 105,48"/>
+<path d="M 0,0 a 5.875,5.875 0 0 1 11.75,0 a 5.875,5.875 0 0 1 11.75,0 a 5.875,5.875 0 0 1 11.75,0 a 5.875,5.875 0 0 1 11.75,0" transform="translate(105 48) rotate(0)"/>
+<polyline points="152,48 217,48 217,70"/>
+<rect x="212" y="70" width="10" height="30" fill="white"/>
+<polyline points="217,100 217,123 23,123"/>
+<polyline points="159,48 159,77"/>
+<polyline points="149,77 169,77"/>
+<polyline points="149,83 169,83"/>
+<polyline points="159,83 159,123"/>
+<circle cx="23" cy="48" r="2.5" fill="white"/>
+<circle cx="23" cy="123" r="2.5" fill="white"/>
+<circle cx="159" cy="48" r="1.85" fill="#181818" stroke="none"/>
+<circle cx="159" cy="123" r="1.85" fill="#181818" stroke="none"/>
+<polyline points="39,45.36 43,48 39,50.64"/>
+<polyline points="162.3,102 159,107 155.7,102"/>
+<polyline points="220.3,109 217,114 213.7,109"/>
+<text x="39" y="39" font-size="15" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n0" font-family="Times New Roman">I</text>
+<circle cx="39.34" cy="26.89" r="0.96" fill="#181818" stroke="none"/><text x="71.5" y="68" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">r</text>
+<text x="128" y="68" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">L</text>
+<text x="142" y="83" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">C</text>
+<text x="203" y="88" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">R</text>
+<text x="148" y="111" font-size="15" text-anchor="end" font-style="italic" fill="#181818" stroke="none" id="phasor-n5" font-family="Times New Roman">I<tspan font-size="69%" baseline-shift="sub">C</tspan></text>
+<circle cx="138.94" cy="98.89" r="0.96" fill="#181818" stroke="none"/><text x="206" y="115" font-size="15" text-anchor="end" font-style="italic" fill="#181818" stroke="none" id="phasor-n6" font-family="Times New Roman">I<tspan font-size="69%" baseline-shift="sub">R</tspan></text>
+<circle cx="197.52" cy="102.89" r="0.96" fill="#181818" stroke="none"/><text x="12" y="60" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="12" y="94.0" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n8" font-family="Times New Roman">U</text>
+<circle cx="13.59" cy="81.09" r="1.02" fill="#181818" stroke="none"/><text x="12" y="122" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="182" y="69" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="182" y="95.5" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n11" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">C</tspan></text>
+<circle cx="179.90" cy="82.59" r="1.02" fill="#181818" stroke="none"/><text x="182" y="116" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="238" y="69" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="238" y="98.0" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n14" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">R</tspan></text>
+<circle cx="236.21" cy="85.09" r="1.02" fill="#181818" stroke="none"/><text x="238" y="121" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="52" y="29" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="72.0" y="29" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n17" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">r</tspan></text>
+<circle cx="71.44" cy="16.09" r="1.02" fill="#181818" stroke="none"/><text x="92" y="29" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+<text x="109" y="29" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">+</text>
+<text x="129.5" y="29" font-size="16" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" id="phasor-n20" font-family="Times New Roman">U<tspan font-size="69%" baseline-shift="sub">L</tspan></text>
+<circle cx="128.02" cy="16.09" r="1.02" fill="#181818" stroke="none"/><text x="150" y="29" font-size="15" text-anchor="middle" font-style="normal" fill="#181818" stroke="none" font-family="Times New Roman">−</text>
+</g>
+</svg>

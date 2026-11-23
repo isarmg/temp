@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="116" viewBox="0 0 149 116">
+<rect width="149" height="116" fill="#fff"/>
+<g fill="none" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10,86 L132,86"/>
+<path d="M128,90 L132,86 L128,82"/>
+<path d="M20,101 L20,11"/>
+<path d="M24,15 L20,11 L16,15"/>
+<text x="35" y="22" text-anchor="start" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">|H(jω)|</text>
+<text x="131" y="101" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">ω</text>
+<text x="28" y="101" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="normal" fill="#151515" stroke="none">0</text>
+<text x="55" y="101" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c</tspan></text>
+<path d="M20,53 L55,53 L55,86"/>
+</g>
+</svg>

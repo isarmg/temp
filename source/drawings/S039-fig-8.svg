@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="215" viewBox="0 0 704 215" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>双边幅度谱及双边相位谱</title>
+<rect width="704" height="215" fill="#ffffff"/>
+<polyline points="11.00,148.00 330.00,148.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="324.82,151.03 330.00,148.00 324.82,144.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="172.00,156.00 172.00,22.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="175.03,27.18 172.00,22.00 168.97,27.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="340" y="154" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="middle">ω</text>
+<text x="178" y="20" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="start">|Fₙ|</text>
+<text x="172" y="169" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">0</text>
+<polyline points="25.12,140.07 26.20,139.61 27.28,139.18 28.36,138.77 29.44,138.40 30.52,138.06 31.60,137.75 32.68,137.48 33.76,137.25 34.84,137.06 35.92,136.91 37.00,136.80 38.08,136.73 39.16,136.70 40.24,136.72 41.32,136.79 42.40,136.90 43.48,137.06 44.56,137.26 45.64,137.51 46.72,137.81 47.80,138.15 48.88,138.53 49.96,138.96 51.04,139.44 52.12,139.96 53.20,140.52 54.28,141.12 55.36,141.75 56.44,142.43 57.52,143.14 58.60,143.88 59.68,144.65 60.76,145.45 61.84,146.28 62.92,147.13 64.00,148.00 65.08,147.11 66.16,146.21 67.24,145.29 68.32,144.37 69.40,143.44 70.48,142.52 71.56,141.59 72.64,140.67 73.72,139.75 74.80,138.85 75.88,137.97 76.96,137.11 78.04,136.26 79.12,135.45 80.20,134.67 81.28,133.92 82.36,133.21 83.44,132.55 84.52,131.92 85.60,131.35 86.68,130.83 87.76,130.36 88.84,129.95 89.92,129.61 91.00,129.33 92.08,129.11 93.16,128.97 94.24,128.89 95.32,128.89 96.40,128.97 97.48,129.13 98.56,129.36 99.64,129.68 100.72,130.08 101.80,130.57 102.88,131.14 103.96,131.79 105.04,132.54 106.12,133.36 107.20,134.28 108.28,135.28 109.36,136.37 110.44,137.54 111.52,138.79 112.60,140.13 113.68,141.55 114.76,143.05 115.84,144.62 116.92,146.28 118.00,148.00 119.08,146.21 120.16,144.34 121.24,142.42 122.32,140.43 123.40,138.38 124.48,136.28 125.56,134.13 126.64,131.94 127.72,129.70 128.80,127.42 129.88,125.11 130.96,122.77 132.04,120.41 133.12,118.02 134.20,115.63 135.28,113.22 136.36,110.81 137.44,108.40 138.52,105.99 139.60,103.60 140.68,101.22 141.76,98.87 142.84,96.54 143.92,94.24 145.00,91.98 146.08,89.76 147.16,87.59 148.24,85.47 149.32,83.40 150.40,81.40 151.48,79.46 152.56,77.60 153.64,75.80 154.72,74.09 155.80,72.46 156.88,70.92 157.96,69.46 159.04,68.10 160.12,66.84 161.20,65.68 162.28,64.62 163.36,63.66 164.44,62.81 165.52,62.07 166.60,61.44 167.68,60.92 168.76,60.52 169.84,60.23 170.92,60.06 172.00,60.00 173.08,60.06 174.16,60.23 175.24,60.52 176.32,60.92 177.40,61.44 178.48,62.07 179.56,62.81 180.64,63.66 181.72,64.62 182.80,65.68 183.88,66.84 184.96,68.10 186.04,69.46 187.12,70.92 188.20,72.46 189.28,74.09 190.36,75.80 191.44,77.60 192.52,79.46 193.60,81.40 194.68,83.40 195.76,85.47 196.84,87.59 197.92,89.76 199.00,91.98 200.08,94.24 201.16,96.54 202.24,98.87 203.32,101.22 204.40,103.60 205.48,105.99 206.56,108.40 207.64,110.81 208.72,113.22 209.80,115.63 210.88,118.02 211.96,120.41 213.04,122.77 214.12,125.11 215.20,127.42 216.28,129.70 217.36,131.94 218.44,134.13 219.52,136.28 220.60,138.38 221.68,140.43 222.76,142.42 223.84,144.34 224.92,146.21 226.00,148.00 227.08,146.28 228.16,144.62 229.24,143.05 230.32,141.55 231.40,140.13 232.48,138.79 233.56,137.54 234.64,136.37 235.72,135.28 236.80,134.28 237.88,133.36 238.96,132.54 240.04,131.79 241.12,131.14 242.20,130.57 243.28,130.08 244.36,129.68 245.44,129.36 246.52,129.13 247.60,128.97 248.68,128.89 249.76,128.89 250.84,128.97 251.92,129.11 253.00,129.33 254.08,129.61 255.16,129.95 256.24,130.36 257.32,130.83 258.40,131.35 259.48,131.92 260.56,132.55 261.64,133.21 262.72,133.92 263.80,134.67 264.88,135.45 265.96,136.26 267.04,137.11 268.12,137.97 269.20,138.85 270.28,139.75 271.36,140.67 272.44,141.59 273.52,142.52 274.60,143.44 275.68,144.37 276.76,145.29 277.84,146.21 278.92,147.11 280.00,148.00 281.08,147.13 282.16,146.28 283.24,145.45 284.32,144.65 285.40,143.88 286.48,143.14 287.56,142.43 288.64,141.75 289.72,141.12 290.80,140.52 291.88,139.96 292.96,139.44 294.04,138.96 295.12,138.53 296.20,138.15 297.28,137.81 298.36,137.51 299.44,137.26 300.52,137.06 301.60,136.90 302.68,136.79 303.76,136.72 304.84,136.70 305.92,136.73 307.00,136.80 308.08,136.91 309.16,137.06 310.24,137.25 311.32,137.48 312.40,137.75 313.48,138.06 314.56,138.40 315.64,138.77 316.72,139.18 317.80,139.61 318.88,140.07" fill="none" stroke="#62686d" stroke-width="1.15" stroke-dasharray="5 4"/>
+<polyline points="31.60,148.00 31.60,137.75" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="31.599999999999994" cy="137.7537304430188" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="42.40,148.00 42.40,136.90" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="42.39999999999998" cy="136.8998746466037" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="53.20,148.00 53.20,140.52" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="53.19999999999999" cy="140.5160857296909" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="64.0" cy="148.0" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="74.80,148.00 74.80,138.85" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="74.8" cy="138.85299366962218" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="85.60,148.00 85.60,131.35" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="85.6" cy="131.34981196990555" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="96.40,148.00 96.40,128.97" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="96.39999999999999" cy="128.97121367989206" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="107.20,148.00 107.20,134.28" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="107.19999999999999" cy="134.27949050443328" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="118.0" cy="148.0" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="128.80,148.00 128.80,127.42" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="128.8" cy="127.41923575664994" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="139.60,148.00 139.60,103.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="139.6" cy="103.5994985864148" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="150.40,148.00 150.40,81.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="150.4" cy="81.39924787962218" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="161.20,148.00 161.20,65.68" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="161.2" cy="65.67694302659976" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="172.00,148.00 172.00,60.00" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="172.0" cy="60" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="182.80,148.00 182.80,65.68" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="182.8" cy="65.67694302659976" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="193.60,148.00 193.60,81.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="193.6" cy="81.39924787962218" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="204.40,148.00 204.40,103.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="204.4" cy="103.5994985864148" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="215.20,148.00 215.20,127.42" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="215.2" cy="127.41923575664994" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="226.0" cy="148.0" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="236.80,148.00 236.80,134.28" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="236.8" cy="134.27949050443328" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="247.60,148.00 247.60,128.97" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="247.60000000000002" cy="128.97121367989206" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="258.40,148.00 258.40,131.35" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="258.4" cy="131.34981196990555" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="269.20,148.00 269.20,138.85" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="269.2" cy="138.85299366962218" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="280.0" cy="148.0" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="290.80,148.00 290.80,140.52" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="290.8" cy="140.5160857296909" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="301.60,148.00 301.60,136.90" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="301.6" cy="136.8998746466037" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="312.40,148.00 312.40,137.75" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="312.4" cy="137.7537304430188" r="2.35" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<text x="64.0" y="169" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">−10Ω</text>
+<text x="118.0" y="169" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">−5Ω</text>
+<text x="226.0" y="169" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">5Ω</text>
+<text x="280.0" y="169" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">10Ω</text>
+<text x="141" y="46" fill="#15191d" font-family="STIX Two Math" font-size="15" font-style="italic" text-anchor="middle">|F₋₁|</text>
+<text x="193" y="43" fill="#15191d" font-family="STIX Two Math" font-size="15" font-style="italic" text-anchor="middle">|F₀|</text>
+<text x="217" y="64" fill="#15191d" font-family="STIX Two Math" font-size="15" font-style="italic" text-anchor="middle">|F₁|</text>
+<polyline points="151.00,49.00 160.20,62.68" fill="none" stroke="#15191d" stroke-width="1.08"/>
+<polyline points="181.00,45.00 174.00,57.00" fill="none" stroke="#15191d" stroke-width="1.08"/>
+<polyline points="199.00,66.00 185.80,64.68" fill="none" stroke="#15191d" stroke-width="1.08"/>
+<polyline points="357.00,92.00 682.00,92.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="676.82,95.03 682.00,92.00 676.82,88.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="518.00,172.00 518.00,19.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="521.03,24.18 518.00,19.00 514.97,24.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="691" y="104" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="middle">ω</text>
+<text x="511" y="20" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="end">φₙ</text>
+<text x="525" y="29" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="start">2π</text>
+<text x="511" y="169" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="end">−2π</text>
+<text x="510" y="111" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">0</text>
+<polyline points="372.25,92.00 372.25,78.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="372.25" cy="78.4" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="385.50,92.00 385.50,24.00" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="385.5" cy="24.0" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="398.75,92.00 398.75,37.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="398.75" cy="37.6" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="412.00,92.00 412.00,51.20" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="412.0" cy="51.2" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="425.25,92.00 425.25,64.80" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="425.25" cy="64.8" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="438.50,92.00 438.50,78.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="438.5" cy="78.4" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="451.75,92.00 451.75,24.00" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="451.75" cy="24.0" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="465.00,92.00 465.00,37.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="465.0" cy="37.6" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="478.25,92.00 478.25,51.20" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="478.25" cy="51.2" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="491.50,92.00 491.50,64.80" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="491.5" cy="64.8" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="504.75,92.00 504.75,78.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="504.75" cy="78.4" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="531.25,92.00 531.25,105.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="531.25" cy="105.6" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="544.50,92.00 544.50,119.20" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="544.5" cy="119.2" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="557.75,92.00 557.75,132.80" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="557.75" cy="132.8" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="571.00,92.00 571.00,146.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="571.0" cy="146.4" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="584.25,92.00 584.25,160.00" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="584.25" cy="160.0" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="597.50,92.00 597.50,105.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="597.5" cy="105.6" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="610.75,92.00 610.75,119.20" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="610.75" cy="119.2" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="624.00,92.00 624.00,132.80" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="624.0" cy="132.8" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="637.25,92.00 637.25,146.40" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="637.25" cy="146.4" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="650.50,92.00 650.50,160.00" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="650.5" cy="160.0" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="663.75,92.00 663.75,105.60" fill="none" stroke="#15191d" stroke-width="1.34"/>
+<circle cx="663.75" cy="105.6" r="2.6" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<text x="451.75" y="113" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="middle">−5Ω</text>
+<text x="584.25" y="85" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="middle">5Ω</text>
+<text x="650.5" y="85" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="middle">10Ω</text>
+<text x="172" y="204" fill="#15191d" font-family="Noto Sans CJK SC" font-size="20" font-style="normal" text-anchor="middle">双边幅度谱</text>
+<text x="518" y="204" fill="#15191d" font-family="Noto Sans CJK SC" font-size="20" font-style="normal" text-anchor="middle">双边相位谱</text>
+</svg>

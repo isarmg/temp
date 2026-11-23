@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="374" height="118" viewBox="0 0 374 118" role="img" aria-label="S095-delay-z"><rect width="374" height="118" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="14" y1="79" x2="90" y2="79" stroke="#141414" stroke-width="2"/>
+<path d="M 82,83.48 L 90,79 L 82,74.52" fill="none" stroke="#141414" stroke-width="2"/>
+<rect x="90" y="60" width="45" height="38" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="112.5" y="87" font-family="STIX Two Math" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">z⁻¹</text>
+<line x1="135" y1="79" x2="157" y2="79" stroke="#141414" stroke-width="2"/>
+<path d="M 149,83.48 L 157,79 L 149,74.52" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="173" y1="17" x2="173" y2="63" stroke="#141414" stroke-width="2"/>
+<path d="M 168.52,55 L 173,63 L 177.48,55" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="173" cy="79" r="16" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="173" y="87" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414">Σ</text>
+<line x1="189" y1="79" x2="350" y2="79" stroke="#141414" stroke-width="2"/>
+<path d="M 342,83.48 L 350,79 L 342,74.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="11" y="65" font-family="Times New Roman" font-size="23" text-anchor="start" fill="#141414" font-style="italic">F(z)</text>
+<text x="188" y="28" font-family="Times New Roman" font-size="22" text-anchor="start" fill="#141414" font-style="italic">f(−1)</text>
+<text x="365" y="63" font-family="STIX Two Math" font-size="22" text-anchor="end" fill="#141414" font-style="italic">z⁻¹F(z) + f(−1)</text>
+</g></svg>

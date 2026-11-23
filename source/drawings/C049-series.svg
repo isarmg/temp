@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="176" viewBox="-6 -6 632 176" role="img">
+<title>串联电感与等效电感</title>
+<rect x="-6" y="-6" width="632" height="176" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(113.0 53.0) rotate(0.0)">
+<polyline points="-76,0 -34,0"/>
+<polyline points="34,0 76,0"/>
+<path d="M -34 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0"/>
+</g>
+<text x="113.0" y="31" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">L<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<g transform="translate(241.0 53.0) rotate(0.0)">
+<polyline points="-52,0 -34,0"/>
+<polyline points="34,0 52,0"/>
+<path d="M -34 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0 a 8.5 8.5 0 0 1 17 0"/>
+</g>
+<text x="241.0" y="31" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">L<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<polyline points="293,53 303,53 303,135 37,135"/>
+<g transform="translate(73 53) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="73" y="40" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="21" y="70" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="21" y="130" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="19" y="102.64" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="37" cy="53" r="3.7" fill="white"/>
+<circle cx="37" cy="135" r="3.7" fill="white"/>
+<text x="343" y="107" font-size="34" text-anchor="middle" stroke="none" fill="#19232d" font-family="STIX Two Math" font-style="normal">⇔</text>
+<g transform="translate(468.0 53.0) rotate(0.0)">
+<polyline points="-63,0 -36,0"/>
+<polyline points="36,0 63,0"/>
+<path d="M -36 0 a 9 9 0 0 1 18 0 a 9 9 0 0 1 18 0 a 9 9 0 0 1 18 0 a 9 9 0 0 1 18 0"/>
+</g>
+<text x="468.0" y="29" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">L</text>
+<polyline points="531,53 531,135 405,135"/>
+<g transform="translate(428 53) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="428" y="40" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="389" y="70" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="389" y="130" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="387" y="102.64" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="405" cy="53" r="3.7" fill="white"/>
+<circle cx="405" cy="135" r="3.7" fill="white"/>
+</g>
+</svg>

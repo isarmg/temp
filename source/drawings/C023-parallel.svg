@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="734" height="228" viewBox="-6 -6 734 228" role="img">
+<title>三个并联电阻及其等效电导和等效电阻</title>
+<rect x="-6" y="-6" width="734" height="228" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="44,42 333,42"/>
+<polyline points="44,174 333,174"/>
+<g transform="translate(149.0 108.0) rotate(90.0)">
+<polyline points="-66,0 -26.5,0"/>
+<polyline points="26.5,0 66,0"/>
+<rect x="-26.5" y="-9" width="53" height="18" fill="white"/>
+</g>
+<text x="133" y="114.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<text x="134" y="150.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<g transform="translate(149 80) rotate(90)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="137" y="83" font-size="23" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">1</tspan></text>
+<circle cx="149" cy="42" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="149" cy="174" r="3.4" fill="#19232d" stroke="none"/>
+<g transform="translate(241.0 108.0) rotate(90.0)">
+<polyline points="-66,0 -26.5,0"/>
+<polyline points="26.5,0 66,0"/>
+<rect x="-26.5" y="-9" width="53" height="18" fill="white"/>
+</g>
+<text x="225" y="114.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<text x="226" y="150.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<g transform="translate(241 80) rotate(90)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="229" y="83" font-size="23" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">2</tspan></text>
+<circle cx="241" cy="42" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="241" cy="174" r="3.4" fill="#19232d" stroke="none"/>
+<g transform="translate(333.0 108.0) rotate(90.0)">
+<polyline points="-66,0 -26.5,0"/>
+<polyline points="26.5,0 66,0"/>
+<rect x="-26.5" y="-9" width="53" height="18" fill="white"/>
+</g>
+<text x="317" y="114.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<text x="318" y="150.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<g transform="translate(333 80) rotate(90)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="321" y="83" font-size="23" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">3</tspan></text>
+<g transform="translate(101 42) rotate(0)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="101" y="27" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="28" y="59" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="28" y="169" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="26" y="117.64" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="44" cy="42" r="3.7" fill="white"/>
+<circle cx="44" cy="174" r="3.7" fill="white"/>
+<text x="419" y="119" font-size="36" text-anchor="middle" stroke="none" fill="#19232d" font-family="STIX Two Math" font-style="normal">⇒</text>
+<polyline points="480,42 628,42"/>
+<polyline points="480,174 628,174"/>
+<g transform="translate(628.0 108.0) rotate(90.0)">
+<polyline points="-66,0 -26.5,0"/>
+<polyline points="26.5,0 66,0"/>
+<rect x="-26.5" y="-9" width="53" height="18" fill="white"/>
+</g>
+<text x="612" y="114.0" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G</text>
+<g transform="translate(537 42) rotate(0)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="537" y="27" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="464" y="59" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="464" y="169" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="462" y="117.64" font-size="24" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="480" cy="42" r="3.7" fill="white"/>
+<circle cx="480" cy="174" r="3.7" fill="white"/>
+<text x="648" y="130" font-size="25" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R<tspan baseline-shift="sub" font-size="73%">eq</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645" height="158" viewBox="0 0 645 158" role="img" aria-label="S109-feedback-reduction"><rect width="645" height="158" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="67" y1="59" x2="200" y2="59" stroke="#141414" stroke-width="2"/>
+<path d="M 125.5,63.48 L 133.5,59 L 125.5,54.52" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="200" y1="59" x2="445" y2="59" stroke="#141414" stroke-width="2"/>
+<path d="M 314.5,63.48 L 322.5,59 L 314.5,54.52" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="445" y1="59" x2="578" y2="59" stroke="#141414" stroke-width="2"/>
+<path d="M 503.5,63.48 L 511.5,59 L 503.5,54.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 445,59 C 445,85.46 387.425,108 322.5,108 C 257.575,108 200,85.46 200,59" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 330.5,103.52 L 322.5,108 L 330.5,112.48" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="307.5" y="134" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">H<tspan font-size="17.76" dy="6.24">B</tspan></text>
+<text x="341.5" y="134" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">(s)</text>
+<circle cx="67" cy="59" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="200" cy="59" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="445" cy="59" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<circle cx="578" cy="59" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<text x="67" y="39" font-family="Times New Roman" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">F(s)</text>
+<text x="133.5" y="41" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414">1</text>
+<text x="307.5" y="39" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">H<tspan font-size="17.76" dy="6.24">A</tspan></text>
+<text x="341.5" y="39" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">(s)</text>
+<text x="511.5" y="41" font-family="Times New Roman" font-size="22" text-anchor="middle" fill="#141414">1</text>
+<text x="564" y="39" font-family="Times New Roman" font-style="italic" font-size="24" text-anchor="middle" fill="#141414">Y<tspan font-size="17.76" dy="6.24">zs</tspan></text>
+<text x="601" y="39" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">(s)</text>
+</g></svg>

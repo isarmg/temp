@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="254" viewBox="0 0 306 254">
+<rect width="306" height="254" fill="#fff"/>
+<g fill="none" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10,85 L132,85"/>
+<path d="M128,89 L132,85 L128,81"/>
+<path d="M20,100 L20,10"/>
+<path d="M24,14 L20,10 L16,14"/>
+<text x="35" y="21" text-anchor="start" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">|H(jω)|</text>
+<text x="131" y="100" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">ω</text>
+<text x="28" y="100" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="normal" fill="#151515" stroke="none">0</text>
+<text x="55" y="100" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c</tspan></text>
+<path d="M55,85 L55,52 L128,52"/>
+<text x="76" y="122" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">高通</text>
+<path d="M163,85 L285,85"/>
+<path d="M281,89 L285,85 L281,81"/>
+<path d="M173,100 L173,10"/>
+<path d="M177,14 L173,10 L169,14"/>
+<text x="188" y="21" text-anchor="start" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">|H(jω)|</text>
+<text x="284" y="100" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">ω</text>
+<text x="181" y="100" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="normal" fill="#151515" stroke="none">0</text>
+<text x="208" y="100" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c1</tspan></text>
+<text x="245" y="100" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c2</tspan></text>
+<path d="M208,85 L208,52 L245,52 L245,85"/>
+<text x="229" y="122" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">带通</text>
+<path d="M10,209 L132,209"/>
+<path d="M128,213 L132,209 L128,205"/>
+<path d="M20,224 L20,134"/>
+<path d="M24,138 L20,134 L16,138"/>
+<text x="35" y="145" text-anchor="start" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">|H(jω)|</text>
+<text x="131" y="224" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">ω</text>
+<text x="28" y="224" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="normal" fill="#151515" stroke="none">0</text>
+<text x="55" y="224" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c1</tspan></text>
+<text x="92" y="224" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="italic" fill="#151515" stroke="none">ω<tspan baseline-shift="sub" font-size="69%">c2</tspan></text>
+<path d="M20,176 L55,176 L55,209"/>
+<path d="M92,209 L92,176 L128,176"/>
+<text x="76" y="246" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">带阻</text>
+<path d="M163,209 L285,209"/>
+<path d="M281,213 L285,209 L281,205"/>
+<path d="M173,224 L173,134"/>
+<path d="M177,138 L173,134 L169,138"/>
+<text x="188" y="145" text-anchor="start" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">|H(jω)|</text>
+<text x="284" y="224" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="italic" fill="#151515" stroke="none">ω</text>
+<text x="181" y="224" text-anchor="middle" font-family="Times New Roman" font-size="13" font-style="normal" fill="#151515" stroke="none">0</text>
+<path d="M173,176 L281,176"/>
+<text x="229" y="246" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">全通</text>
+</g>
+</svg>

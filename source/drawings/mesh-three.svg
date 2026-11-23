@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 -6 560 270" role="img"
+     aria-label="三网孔电路及网孔电流参考方向">
+  <desc>上方为网孔三，下方左侧为网孔一，下方右侧为网孔二。三个网孔电流均取顺时针方向。</desc>
+  <g fill="none" stroke="#19232d" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 143V45H163 M211 45H372 M404 45H505V143
+             M70 130H150 M192 130H376 M418 130H505
+             M70 174V194 M70 226V243H505V226 M505 194V174
+             M282 130V143 M282 174V194 M282 226V243"/>
+    <g fill="white">
+      <rect x="163" y="37" width="48" height="16"/>
+      <rect x="150" y="122" width="42" height="16"/>
+      <rect x="376" y="122" width="42" height="16"/>
+      <rect x="62" y="143" width="16" height="31"/>
+      <rect x="274" y="143" width="16" height="31"/>
+      <rect x="497" y="143" width="16" height="31"/>
+      <circle cx="388" cy="45" r="16"/>
+      <circle cx="70" cy="210" r="16"/>
+      <circle cx="282" cy="210" r="16"/>
+      <circle cx="505" cy="210" r="16"/>
+    </g>
+    <path d="M372 45H404 M70 194V226 M282 194V226 M505 194V226"/>
+    <g fill="#19232d" stroke="none">
+      <circle cx="70" cy="130" r="3.7"/>
+      <circle cx="282" cy="130" r="3.7"/>
+      <circle cx="505" cy="130" r="3.7"/>
+      <circle cx="282" cy="243" r="3.7"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#19232d" stroke-width="1.7" stroke-linecap="round">
+    <path d="M356 59H364 M360 55V63 M412 59H420
+             M51 189H59 M55 185V193 M51 230H59
+             M297 190H305 M301 186V194 M297 230H305
+             M516 189H524 M520 185V193 M516 230H524"/>
+  </g>
+  <g fill="none" stroke="#5e6f78" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(282 79)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+    <path transform="translate(162 199)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+    <path transform="translate(411 199)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+  </g>
+  <g fill="none" stroke="#5e6f78" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113 105H141 M136 101L141 105 136 109
+             M339 105H367 M362 101L367 105 362 109
+             M262 148V180 M258 175L262 180 266 175"/>
+  </g>
+  <g fill="#19232d" font-family="Times New Roman" font-size="24" font-style="italic">
+    <g text-anchor="middle">
+      <text x="187" y="24">r<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
+      <text x="388" y="21">E<tspan baseline-shift="sub" font-size="15" font-style="normal">4</tspan></text>
+      <text x="171" y="157">r<tspan baseline-shift="sub" font-size="15" font-style="normal">13</tspan></text>
+      <text x="397" y="157">r<tspan baseline-shift="sub" font-size="15" font-style="normal">23</tspan></text>
+      <text x="282" y="85">i<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
+      <text x="162" y="205">i<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
+      <text x="411" y="205">i<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
+    </g>
+    <g text-anchor="end">
+      <text x="53" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
+      <text x="46" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
+    </g>
+    <text x="526" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
+    <text x="526" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
+    <text x="300" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">12</tspan></text>
+    <text x="306" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
+  </g>
+  <g fill="#4e6069" font-family="Times New Roman" font-size="21" font-style="italic">
+    <text x="149" y="110" aria-label="i1 减 i3">i<tspan baseline-shift="sub" font-size="14" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">3</tspan></text>
+    <text x="375" y="110" aria-label="i2 减 i3">i<tspan baseline-shift="sub" font-size="14" font-style="normal">2</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">3</tspan></text>
+    <text x="252" y="169" text-anchor="end" aria-label="i1 减 i2">i<tspan baseline-shift="sub" font-size="14" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">2</tspan></text>
+  </g>
+</svg>

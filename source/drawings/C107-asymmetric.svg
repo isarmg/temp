@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="100" viewBox="0 0 228 100">
+<rect width="228" height="100" fill="#fff"/>
+<g fill="none" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M12,21 L35,21"/>
+<path d="M35,21 L62.5,21"/>
+<rect x="62.5" y="15.5" width="31" height="11" fill="#fff"/>
+<path d="M93.5,21 L122,21"/>
+<path d="M122,21 L151.5,21"/>
+<rect x="151.5" y="15.5" width="31" height="11" fill="#fff"/>
+<path d="M182.5,21 L216,21"/>
+<path d="M35,21 L35,40"/>
+<rect x="29.5" y="40" width="11" height="30" fill="#fff"/>
+<path d="M35,70 L35,87"/>
+<path d="M122,21 L122,40"/>
+<rect x="116.5" y="40" width="11" height="30" fill="#fff"/>
+<path d="M122,70 L122,87"/>
+<text x="78" y="42" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="normal" fill="#151515" stroke="none">12 Ω</text>
+<text x="167" y="42" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="normal" fill="#151515" stroke="none">3 Ω</text>
+<text x="65" y="61" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="normal" fill="#151515" stroke="none">24 Ω</text>
+<text x="152" y="61" text-anchor="middle" font-family="Times New Roman" font-size="14" font-style="normal" fill="#151515" stroke="none">12 Ω</text>
+<path d="M12,87 L216,87"/>
+<circle cx="12" cy="21" r="2.5" fill="#fff"/>
+<circle cx="216" cy="21" r="2.5" fill="#fff"/>
+<circle cx="35" cy="21" r="1.7" fill="#151515"/>
+<circle cx="122" cy="21" r="1.7" fill="#151515"/>
+<circle cx="12" cy="87" r="2.5" fill="#fff"/>
+<circle cx="216" cy="87" r="2.5" fill="#fff"/>
+<circle cx="35" cy="87" r="1.7" fill="#151515"/>
+<circle cx="122" cy="87" r="1.7" fill="#151515"/>
+</g>
+</svg>

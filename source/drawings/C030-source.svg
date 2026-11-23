@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="534" height="169" viewBox="-6 -6 534 169" role="img">
+<title>同一端口的电流源并联与电压源串联模型</title>
+<rect x="-6" y="-6" width="534" height="169" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(46.0 80.0) rotate(90.0)">
+<polyline points="-55,0 -21,0"/>
+<polyline points="21,0 55,0"/>
+<circle cx="0" cy="0" r="21.0" fill="white"/>
+<polyline points="0,-21 0,21"/>
+</g>
+<g transform="translate(46 44.0) rotate(-90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="30" y="55.0" font-size="23" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<polyline points="46,25 203,25"/>
+<polyline points="46,135 203,135"/>
+<g transform="translate(132.35000000000002 80.0) rotate(90.0)">
+<polyline points="-55,0 -27.5,0"/>
+<polyline points="27.5,0 55,0"/>
+<rect x="-27.5" y="-9" width="55" height="18" fill="white"/>
+</g>
+<text x="146.35000000000002" y="88.0" font-size="22" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R</text>
+<circle cx="132.35000000000002" cy="25" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="132.35000000000002" cy="135" r="3.4" fill="#19232d" stroke="none"/>
+<circle cx="203" cy="25" r="3.7" fill="white"/>
+<circle cx="203" cy="135" r="3.7" fill="white"/>
+<text x="261" y="89" font-size="35" text-anchor="middle" stroke="none" fill="#19232d" font-family="STIX Two Math" font-style="normal">⇒</text>
+<g transform="translate(337.0 80.0) rotate(90.0)">
+<polyline points="-55,0 -22,0"/>
+<polyline points="22,0 55,0"/>
+<circle cx="0" cy="0" r="22.0" fill="white"/>
+<polyline points="-22,0 22,0"/>
+</g>
+<text x="365" y="89.0" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<text x="349" y="57.0" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="349" y="118.0" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(415.0 25.0) rotate(0.0)">
+<polyline points="-78,0 -28,0"/>
+<polyline points="28,0 78,0"/>
+<rect x="-28.0" y="-9" width="56" height="18" fill="white"/>
+</g>
+<text x="415.0" y="60" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R</text>
+<polyline points="337,135 493,135"/>
+<circle cx="493" cy="25" r="3.7" fill="white"/>
+<circle cx="493" cy="135" r="3.7" fill="white"/>
+</g>
+</svg>

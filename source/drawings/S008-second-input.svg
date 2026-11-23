@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393" height="171" viewBox="0 0 393 171" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>含输入导数的二阶连续系统</title>
+<rect width="393" height="171" fill="#ffffff"/>
+<polyline points="8.00,67.00 51.00,67.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="45.82,70.03 51.00,67.00 45.82,63.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="69.00,67.00 115.00,67.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="109.82,70.03 115.00,67.00 109.82,63.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="145.00,67.00 221.00,67.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="215.82,70.03 221.00,67.00 215.82,63.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="251.00,67.00 315.00,67.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="309.82,70.03 315.00,67.00 309.82,63.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="333.00,67.00 385.00,67.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="379.82,70.03 385.00,67.00 379.82,63.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<circle cx="60" cy="67" r="9" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="60" y="72.1" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="normal" text-anchor="middle">Σ</text>
+<circle cx="324" cy="67" r="9" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="324" y="72.1" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="normal" text-anchor="middle">Σ</text>
+<rect x="115" y="50" width="30" height="34" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="130.0" y="73.27" fill="#15191d" font-family="Times New Roman" font-size="19" font-style="normal" text-anchor="middle">∫</text>
+<text x="130" y="98" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="italic" text-anchor="middle">0</text>
+<rect x="221" y="50" width="30" height="34" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="236.0" y="73.27" fill="#15191d" font-family="Times New Roman" font-size="19" font-style="normal" text-anchor="middle">∫</text>
+<text x="236" y="98" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="italic" text-anchor="middle">0</text>
+<circle cx="169" cy="67" r="1.8" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="281" cy="67" r="1.8" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="169.00,67.00 169.00,115.00 103.00,115.00 66.40,73.40" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="72.10,75.28 66.40,73.40 67.54,79.29" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="281.00,67.00 281.00,146.00 60.00,146.00 60.00,76.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="63.03,81.18 60.00,76.00 56.97,81.18" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="169.00,67.00 169.00,24.00 324.00,24.00 324.00,58.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="320.97,52.82 324.00,58.00 327.03,52.82" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<text x="250" y="17" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="middle">b</text>
+<text x="79" y="84" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">−</text>
+<text x="48" y="88" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">−</text>
+<text x="137" y="135" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="middle">a₁</text>
+<text x="157" y="164" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="middle">a₀</text>
+<text x="25" y="55" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">f(t)</text>
+<text x="94" y="55" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">x″(t)</text>
+<text x="194" y="55" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">x′(t)</text>
+<text x="276" y="55" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">x(t)</text>
+<text x="357" y="55" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">y(t)</text>
+</svg>

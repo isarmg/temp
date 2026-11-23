@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="637" height="160" viewBox="-6 -6 637 160" role="img">
+<title>电阻的关联参考方向和非关联参考方向</title>
+<rect x="-6" y="-6" width="637" height="160" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(142.0 97.0) rotate(0.0)">
+<polyline points="-107,0 -29,0"/>
+<polyline points="29,0 107,0"/>
+<rect x="-29.0" y="-9" width="58" height="18" fill="white"/>
+</g>
+<g transform="translate(89 97) rotate(0)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="89" y="82" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="105" y="124" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="179" y="124" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="142" y="134" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="35" cy="97" r="3.7" fill="white"/>
+<text x="35" y="132" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">A</text>
+<circle cx="249" cy="97" r="3.7" fill="white"/>
+<text x="249" y="132" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">B</text>
+<text x="118" y="64" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R</text>
+<text x="136" y="65" font-size="38" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">(</text>
+<text x="180" y="65" font-size="38" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">)</text>
+<text x="158" y="48" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">1</text>
+<text x="158" y="73" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G</text>
+<polyline points="145,54 171,54" stroke-width="1.6"/>
+<g transform="translate(478.0 97.0) rotate(0.0)">
+<polyline points="-107,0 -29,0"/>
+<polyline points="29,0 107,0"/>
+<rect x="-29.0" y="-9" width="58" height="18" fill="white"/>
+</g>
+<g transform="translate(425 97) rotate(0)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="425" y="82" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="441" y="124" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="515" y="124" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="478" y="134" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<circle cx="371" cy="97" r="3.7" fill="white"/>
+<text x="371" y="132" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">A</text>
+<circle cx="585" cy="97" r="3.7" fill="white"/>
+<text x="585" y="132" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">B</text>
+<text x="454" y="64" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">R</text>
+<text x="472" y="65" font-size="38" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">(</text>
+<text x="516" y="65" font-size="38" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">)</text>
+<text x="494" y="48" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">1</text>
+<text x="494" y="73" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">G</text>
+<polyline points="481,54 507,54" stroke-width="1.6"/>
+</g>
+</svg>

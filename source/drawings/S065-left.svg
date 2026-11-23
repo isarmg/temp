@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="143" viewBox="0 0 140 143" role="img">
+  <title>左边信号收敛域</title>
+  <g fill="none" stroke="#181818" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 20,135 L 20,135" stroke-width="1.35"/>
+    <path d="M 20,125 L 30,135" stroke-width="1.35"/>
+    <path d="M 20,115 L 40,135" stroke-width="1.35"/>
+    <path d="M 20,105 L 50,135" stroke-width="1.35"/>
+    <path d="M 20,95 L 60,135" stroke-width="1.35"/>
+    <path d="M 20,85 L 70,135" stroke-width="1.35"/>
+    <path d="M 20,75 L 80,135" stroke-width="1.35"/>
+    <path d="M 20,65 L 90,135" stroke-width="1.35"/>
+    <path d="M 20,55 L 100,135" stroke-width="1.35"/>
+    <path d="M 20,45 L 104,129" stroke-width="1.35"/>
+    <path d="M 20,35 L 104,119" stroke-width="1.35"/>
+    <path d="M 20,25 L 104,109" stroke-width="1.35"/>
+    <path d="M 20,15 L 104,99" stroke-width="1.35"/>
+    <path d="M 22,7 L 104,89" stroke-width="1.35"/>
+    <path d="M 32,7 L 104,79" stroke-width="1.35"/>
+    <path d="M 42,7 L 104,69" stroke-width="1.35"/>
+    <path d="M 52,7 L 104,59" stroke-width="1.35"/>
+    <path d="M 62,7 L 104,49" stroke-width="1.35"/>
+    <path d="M 72,7 L 104,39" stroke-width="1.35"/>
+    <path d="M 82,7 L 104,29" stroke-width="1.35"/>
+    <path d="M 92,7 L 104,19" stroke-width="1.35"/>
+    <path d="M 102,7 L 104,9" stroke-width="1.35"/>
+    <path d="M 104,6 L 104,136" stroke-width="1.85"/>
+    <path d="M 8,77 L 131,77" stroke-width="1.65"/>
+    <path d="M 126,80.7 L 131,77 L 126,73.3" stroke-width="1.65"/>
+  </g>
+  <g fill="#181818" aria-label="β">
+    <path d="M477 40Q408 -14 279 -14Q201 -14 170 -3V-208H80V519Q80 723 190 750Q249 765 288 765Q379 765 438 694Q484 638 484 588Q484 518 450 477Q415 436 356 417Q446 403 495 351Q545 298 545 197Q545 96 477 40ZM442 196Q442 298 397 342Q352 387 267 387H221V439H245Q306 439 350 475Q385 504 385 582Q385 615 362 655Q325 719 280 717Q170 714 170 519V63Q210 34 281 34Q356 34 399 78Q442 120 442 196Z" transform="translate(112 95) scale(0.0170000 -0.0170000)"/>
+  </g>
+</svg>

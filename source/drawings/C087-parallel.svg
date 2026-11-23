@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="353" height="90" viewBox="0 0 353 90">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="10,14 80,14"/>
+<polyline points="10,76 80,76"/>
+<circle cx="10" cy="14" r="2.5" fill="white"/>
+<circle cx="10" cy="76" r="2.5" fill="white"/>
+<polyline points="44,14 44,28"/>
+<path d="M 0,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0" transform="translate(44 28) rotate(90)"/>
+<polyline points="44,62 44,76"/>
+<polyline points="80,14 80,28"/>
+<path d="M 0,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0" transform="translate(80 28) rotate(90)"/>
+<polyline points="80,62 80,76"/>
+<circle cx="44" cy="14" r="1.85" fill="#181818" stroke="none"/>
+<circle cx="44" cy="76" r="1.85" fill="#181818" stroke="none"/>
+<circle cx="39" cy="28" r="1.95" fill="#181818" stroke="none"/>
+<circle cx="75" cy="28" r="1.95" fill="#181818" stroke="none"/>
+<text x="31" y="50" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">L<tspan font-size="69%" baseline-shift="sub">1</tspan></text>
+<text x="67" y="50" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">L<tspan font-size="69%" baseline-shift="sub">2</tspan></text>
+<path d="M 109,42 H 123 M 109,47 H 123 M 121,38 L 128,44.5 L 121,51"/>
+<polyline points="145,14 161,14"/>
+<path d="M 0,0 a 4.375,4.375 0 0 1 8.75,0 a 4.375,4.375 0 0 1 8.75,0 a 4.375,4.375 0 0 1 8.75,0 a 4.375,4.375 0 0 1 8.75,0" transform="translate(161 14) rotate(0)"/>
+<polyline points="196,14 281,14"/>
+<polyline points="145,76 281,76"/>
+<circle cx="145" cy="14" r="2.5" fill="white"/>
+<circle cx="145" cy="76" r="2.5" fill="white"/>
+<polyline points="237,14 237,28"/>
+<path d="M 0,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0" transform="translate(237 28) rotate(90)"/>
+<polyline points="237,62 237,76"/>
+<polyline points="281,14 281,28"/>
+<path d="M 0,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0 a 4.25,4.25 0 0 1 8.5,0" transform="translate(281 28) rotate(90)"/>
+<polyline points="281,62 281,76"/>
+<circle cx="237" cy="14" r="1.85" fill="#181818" stroke="none"/>
+<circle cx="237" cy="76" r="1.85" fill="#181818" stroke="none"/>
+<text x="178" y="36" font-size="17" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">M</text>
+<text x="231" y="52" font-size="17" text-anchor="end" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">L<tspan font-size="69%" baseline-shift="sub">1</tspan> − M</text>
+<text x="290" y="52" font-size="17" text-anchor="start" font-style="italic" fill="#181818" stroke="none" font-family="Times New Roman">L<tspan font-size="69%" baseline-shift="sub">2</tspan> − M</text>
+</g>
+</svg>

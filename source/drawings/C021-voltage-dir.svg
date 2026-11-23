@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="239" height="121" viewBox="-6 -6 239 121" role="img">
+<title>独立电压源及电压参考方向</title>
+<rect x="-6" y="-6" width="239" height="121" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(113.5 76.0) rotate(0.0)">
+<polyline points="-96.5,0 -24.5,0"/>
+<polyline points="24.5,0 96.5,0"/>
+<circle cx="0" cy="0" r="24.5" fill="white"/>
+<polyline points="-24.5,0 24.5,0"/>
+</g>
+<circle cx="17" cy="76" r="3.7" fill="white"/>
+<circle cx="210" cy="76" r="3.7" fill="white"/>
+<text x="113.5" y="37" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u<tspan baseline-shift="sub" font-size="73%">s</tspan></text>
+<text x="75.5" y="65" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="151.5" y="65" font-size="20" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(54 76) rotate(180)">
+<polyline points="-10,-7.3 0,0 -10,7.3"/>
+</g>
+<text x="57" y="59" font-size="25" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+</g>
+</svg>

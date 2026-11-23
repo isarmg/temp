@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="143" viewBox="0 0 140 143" role="img">
+  <title>双边信号收敛域</title>
+  <g fill="none" stroke="#181818" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 29,135 L 29,135" stroke-width="1.35"/>
+    <path d="M 29,125 L 39,135" stroke-width="1.35"/>
+    <path d="M 29,115 L 49,135" stroke-width="1.35"/>
+    <path d="M 29,105 L 59,135" stroke-width="1.35"/>
+    <path d="M 29,95 L 69,135" stroke-width="1.35"/>
+    <path d="M 29,85 L 79,135" stroke-width="1.35"/>
+    <path d="M 29,75 L 89,135" stroke-width="1.35"/>
+    <path d="M 29,65 L 99,135" stroke-width="1.35"/>
+    <path d="M 29,55 L 109,135" stroke-width="1.35"/>
+    <path d="M 29,45 L 111,127" stroke-width="1.35"/>
+    <path d="M 29,35 L 111,117" stroke-width="1.35"/>
+    <path d="M 29,25 L 111,107" stroke-width="1.35"/>
+    <path d="M 29,15 L 111,97" stroke-width="1.35"/>
+    <path d="M 31,7 L 111,87" stroke-width="1.35"/>
+    <path d="M 41,7 L 111,77" stroke-width="1.35"/>
+    <path d="M 51,7 L 111,67" stroke-width="1.35"/>
+    <path d="M 61,7 L 111,57" stroke-width="1.35"/>
+    <path d="M 71,7 L 111,47" stroke-width="1.35"/>
+    <path d="M 81,7 L 111,37" stroke-width="1.35"/>
+    <path d="M 91,7 L 111,27" stroke-width="1.35"/>
+    <path d="M 101,7 L 111,17" stroke-width="1.35"/>
+    <path d="M 111,7 L 111,7" stroke-width="1.35"/>
+    <path d="M 29,6 L 29,136" stroke-width="1.85"/>
+    <path d="M 111,6 L 111,136" stroke-width="1.85"/>
+    <path d="M 8,77 L 131,77" stroke-width="1.65"/>
+    <path d="M 126,80.7 L 131,77 L 126,73.3" stroke-width="1.65"/>
+  </g>
+  <g fill="#181818" aria-label="α">
+    <path d="M441 223 410 367Q386 481 319 482Q264 482 220 422Q185 372 185 260Q185 153 220 97Q259 37 324 42Q380 47 421 166ZM678 24Q580 -33 509 26Q476 54 469 93L461 128L442 74Q427 32 380 5Q349 -12 297 -12Q201 -11 140 64Q78 140 80 262Q80 382 140 459Q197 533 318 533Q401 533 443 500Q480 472 494 408L498 390L517 444Q535 495 585 521H635V492Q587 477 571 432L520 293L554 144Q570 69 591 59Q618 47 678 83Z" transform="translate(9.114 95) scale(0.0170000 -0.0170000)"/>
+  </g>
+  <g fill="#181818" aria-label="β">
+    <path d="M477 40Q408 -14 279 -14Q201 -14 170 -3V-208H80V519Q80 723 190 750Q249 765 288 765Q379 765 438 694Q484 638 484 588Q484 518 450 477Q415 436 356 417Q446 403 495 351Q545 298 545 197Q545 96 477 40ZM442 196Q442 298 397 342Q352 387 267 387H221V439H245Q306 439 350 475Q385 504 385 582Q385 615 362 655Q325 719 280 717Q170 714 170 519V63Q210 34 281 34Q356 34 399 78Q442 120 442 196Z" transform="translate(119 95) scale(0.0170000 -0.0170000)"/>
+  </g>
+</svg>

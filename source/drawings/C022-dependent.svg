@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="812" height="193" viewBox="-6 -6 812 193" role="img">
+<title>压控电压源、流控电压源、压控电流源、流控电流源</title>
+<rect x="-6" y="-6" width="812" height="193" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(145.0 78.5) rotate(90.0)">
+<polyline points="-53.5,0 -22,0"/>
+<polyline points="22,0 53.5,0"/>
+<path d="M -22.0 0 L 0 -22.0 L 22.0 0 L 0 22.0 Z" fill="white"/>
+<polyline points="-22,0 22,0"/>
+</g>
+<polyline points="41,25 145,25"/>
+<polyline points="41,132 145,132"/>
+<circle cx="41" cy="25" r="3.7" fill="white"/>
+<circle cx="41" cy="132" r="3.7" fill="white"/>
+<text x="27" y="33" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="27" y="140" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="114" y="86.5" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">μ·u</text>
+<text x="165" y="55.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="165" y="115.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(343.0 78.5) rotate(90.0)">
+<polyline points="-53.5,0 -22,0"/>
+<polyline points="22,0 53.5,0"/>
+<path d="M -22.0 0 L 0 -22.0 L 22.0 0 L 0 22.0 Z" fill="white"/>
+<polyline points="-22,0 22,0"/>
+</g>
+<polyline points="239,25 343,25"/>
+<polyline points="239,132 343,132"/>
+<circle cx="239" cy="25" r="3.7" fill="white"/>
+<circle cx="239" cy="132" r="3.7" fill="white"/>
+<text x="225" y="33" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="225" y="140" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="312" y="86.5" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">r·i</text>
+<text x="363" y="55.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="363" y="115.5" font-size="19" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<g transform="translate(541.0 78.5) rotate(90.0)">
+<polyline points="-53.5,0 -22,0"/>
+<polyline points="22,0 53.5,0"/>
+<path d="M -22.0 0 L 0 -22.0 L 22.0 0 L 0 22.0 Z" fill="white"/>
+<polyline points="0,-22 0,22"/>
+</g>
+<polyline points="437,25 541,25"/>
+<polyline points="437,132 541,132"/>
+<circle cx="437" cy="25" r="3.7" fill="white"/>
+<circle cx="437" cy="132" r="3.7" fill="white"/>
+<text x="423" y="33" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="423" y="140" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="510" y="118.5" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">g·u</text>
+<g transform="translate(541 113.5) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<g transform="translate(739.0 78.5) rotate(90.0)">
+<polyline points="-53.5,0 -22,0"/>
+<polyline points="22,0 53.5,0"/>
+<path d="M -22.0 0 L 0 -22.0 L 22.0 0 L 0 22.0 Z" fill="white"/>
+<polyline points="0,-22 0,22"/>
+</g>
+<polyline points="635,25 739,25"/>
+<polyline points="635,132 739,132"/>
+<circle cx="635" cy="25" r="3.7" fill="white"/>
+<circle cx="635" cy="132" r="3.7" fill="white"/>
+<text x="621" y="33" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="621" y="140" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="708" y="118.5" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">α·i</text>
+<g transform="translate(739 113.5) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<g fill="#19232d" stroke="none" font-family="Noto Sans CJK SC" font-weight="bold" font-size="20" text-anchor="middle">
+<text x="93" y="173" font-family="Noto Sans CJK SC">压控电压源</text>
+<text x="291" y="173" font-family="Noto Sans CJK SC">流控电压源</text>
+<text x="489" y="173" font-family="Noto Sans CJK SC">压控电流源</text>
+<text x="687" y="173" font-family="Noto Sans CJK SC">流控电流源</text>
+</g>
+</g>
+</svg>

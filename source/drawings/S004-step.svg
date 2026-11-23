@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="148" viewBox="0 0 156 148" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>连续阶跃函数</title>
+<rect width="156" height="148" fill="#ffffff"/>
+<polyline points="7.00,118.00 146.00,118.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="140.82,121.03 146.00,118.00 140.82,114.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="29.00,140.00 29.00,18.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="32.03,23.18 29.00,18.00 25.97,23.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="145" y="110" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="38" y="20" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">ε(t)</text>
+<polyline points="29.00,68.00 136.00,68.00" fill="none" stroke="#15191d" stroke-width="2.2"/>
+<circle cx="29" cy="68" r="2.9" fill="white" stroke="#15191d" stroke-width="1"/>
+<circle cx="29" cy="93" r="2.9" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<circle cx="29" cy="118" r="2.9" fill="white" stroke="#15191d" stroke-width="1"/>
+<text x="19" y="73" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">1</text>
+<text x="18" y="98" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="italic" text-anchor="middle">½</text>
+<text x="19" y="137" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">0</text>
+</svg>

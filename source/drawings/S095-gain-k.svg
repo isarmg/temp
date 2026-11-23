@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326" height="126" viewBox="0 0 326 126" role="img" aria-label="S095-gain-k"><rect width="326" height="126" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="25" y1="48" x2="148" y2="48" stroke="#141414" stroke-width="2"/>
+<path d="M 140,52.48 L 148,48 L 140,43.52" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="164" cy="48" r="16" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="164" y="55" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">a</text>
+<line x1="180" y1="48" x2="302" y2="48" stroke="#141414" stroke-width="2"/>
+<path d="M 294,52.48 L 302,48 L 294,43.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="16" y="34" font-family="Times New Roman" font-size="23" text-anchor="start" fill="#141414" font-style="italic">f(k)</text>
+<text x="310" y="34" font-family="Times New Roman" font-size="23" text-anchor="end" fill="#141414" font-style="italic">af(k)</text>
+<line x1="25" y1="109" x2="302" y2="109" stroke="#141414" stroke-width="2"/>
+<path d="M 155.5,113.48 L 163.5,109 L 155.5,104.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 294,113.48 L 302,109 L 294,104.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="164" y="97" font-family="Times New Roman" font-size="23" text-anchor="middle" fill="#141414" font-style="italic">a</text>
+<text x="16" y="95" font-family="Times New Roman" font-size="23" text-anchor="start" fill="#141414" font-style="italic">f(k)</text>
+<text x="310" y="95" font-family="Times New Roman" font-size="23" text-anchor="end" fill="#141414" font-style="italic">af(k)</text>
+</g></svg>

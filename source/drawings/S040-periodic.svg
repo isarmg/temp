@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="144" viewBox="0 0 256 144" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>周期矩形脉冲信号</title>
+<rect width="256" height="144" fill="#ffffff"/>
+<polyline points="7.00,96.00 246.00,96.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="240.82,99.03 246.00,96.00 240.82,92.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="129.00,104.00 129.00,20.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="132.03,25.18 129.00,20.00 125.97,25.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="245" y="88" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="138" y="22" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">f(t)</text>
+<polyline points="39.00,96.00 39.00,50.00 75.00,50.00 75.00,96.00" fill="none" stroke="#15191d" stroke-width="2"/>
+<text x="57" y="120" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">−T</text>
+<polyline points="111.00,96.00 111.00,50.00 147.00,50.00 147.00,96.00" fill="none" stroke="#15191d" stroke-width="2"/>
+<polyline points="183.00,96.00 183.00,50.00 219.00,50.00 219.00,96.00" fill="none" stroke="#15191d" stroke-width="2"/>
+<text x="201" y="120" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">T</text>
+<text x="14" y="76" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="middle">⋯</text>
+<text x="239" y="76" fill="#15191d" font-family="STIX Two Math" font-size="16" font-style="italic" text-anchor="middle">⋯</text>
+<text x="121" y="45" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">1</text>
+<text x="129" y="120" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">0</text>
+<text x="104" y="116" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">−τ</text>
+<polyline points="92.50,119.00 115.50,119.00" fill="none" stroke="#15191d" stroke-width="1.2"/>
+<text x="104" y="134" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">2</text>
+<text x="154" y="116" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">τ</text>
+<polyline points="143.50,119.00 164.50,119.00" fill="none" stroke="#15191d" stroke-width="1.2"/>
+<text x="154" y="134" fill="#15191d" font-family="Times New Roman" font-size="13" font-style="italic" text-anchor="middle">2</text>
+</svg>

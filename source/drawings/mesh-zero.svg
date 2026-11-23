@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="150" viewBox="0 0 660 150" role="img"
+     aria-label="零自阻和零互阻的网孔图">
+  <desc>左图的等值电压源在同一个网孔中方向相反，无电阻。右图的相邻网孔各有私有电阻，共享支路只有导线。</desc>
+  <g fill="none" stroke="#19232d" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 62V25H231V62 M48 94V128H231V94"/>
+    <g fill="white">
+      <circle cx="48" cy="78" r="16"/>
+      <circle cx="231" cy="78" r="16"/>
+    </g>
+    <path d="M48 62V94 M231 62V94
+             M321 25H376 M422 25H528 M574 25H627V128H321V25 M474 25V128"/>
+    <g fill="white">
+      <rect x="376" y="17" width="46" height="16"/>
+      <rect x="528" y="17" width="46" height="16"/>
+    </g>
+    <g fill="#19232d" stroke="none">
+      <circle cx="474" cy="25" r="3.6"/>
+      <circle cx="474" cy="128" r="3.6"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#19232d" stroke-width="1.7" stroke-linecap="round">
+    <path d="M29 58H37 M33 54V62 M29 98H37
+             M243 58H251 M247 54V62 M243 98H251"/>
+  </g>
+  <g fill="none" stroke="#5e6f78" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(140 77)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+    <path transform="translate(397 83)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+    <path transform="translate(550 83)" d="M-19 12 A22 22 0 1 1 19 12 M27 9L19 12 17 3"/>
+  </g>
+  <g fill="#19232d" font-family="Times New Roman" font-size="24" font-style="italic">
+    <text x="25" y="85" text-anchor="end">E</text>
+    <text x="253" y="85">E</text>
+    <g text-anchor="middle">
+      <text x="140" y="84">i<tspan baseline-shift="sub" font-size="15">k</tspan></text>
+      <text x="399" y="52">r<tspan baseline-shift="sub" font-size="15">k</tspan></text>
+      <text x="551" y="52">r<tspan baseline-shift="sub" font-size="15">j</tspan></text>
+      <text x="397" y="90">i<tspan baseline-shift="sub" font-size="15">k</tspan></text>
+      <text x="550" y="90">i<tspan baseline-shift="sub" font-size="15">j</tspan></text>
+    </g>
+  </g>
+</svg>

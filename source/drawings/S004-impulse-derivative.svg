@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="155" viewBox="0 0 155 155" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>冲激偶</title>
+<rect width="155" height="155" fill="#ffffff"/>
+<polyline points="7.00,103.00 146.00,103.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="140.82,106.03 146.00,103.00 140.82,99.97" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="31.00,145.00 31.00,19.00" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<polyline points="34.03,24.18 31.00,19.00 27.97,24.18" fill="none" stroke="#15191d" stroke-width="1.38"/>
+<text x="145" y="95" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="end">t</text>
+<text x="40" y="21" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="start">δ′(t)</text>
+<polyline points="31.00,101.00 31.00,51.00" fill="none" stroke="#15191d" stroke-width="2.05"/>
+<polyline points="34.54,57.04 31.00,51.00 27.46,57.04" fill="none" stroke="#15191d" stroke-width="2.05"/>
+<polyline points="31.00,105.00 31.00,143.00" fill="none" stroke="#15191d" stroke-width="2.05"/>
+<polyline points="27.46,136.96 31.00,143.00 34.54,136.96" fill="none" stroke="#15191d" stroke-width="2.05"/>
+<text x="48" y="57" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="start">(1)</text>
+<text x="42" y="123" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">0</text>
+</svg>

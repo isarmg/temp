@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="322" viewBox="0 0 455 322" role="img"
+     aria-label="三节点电导网络">
+  <desc>三个非参考节点以电导支路互接。上方电压源左负右正。两独立电流源分别由右注入中间节点和由参考节点注入中间节点。</desc>
+  <g fill="none" stroke="#19232d" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M65 203V48H129 M171 48H289 M319 48H390V207
+             M65 170H124 M164 170H286 M326 170H390
+             M222 199V112H289 M319 112H390
+             M65 236V242 M65 272V290H390V239
+             M222 231V242 M222 272V290"/>
+    <g fill="white">
+      <rect x="129" y="40" width="42" height="16"/>
+      <rect x="124" y="162" width="40" height="16"/>
+      <rect x="286" y="162" width="40" height="16"/>
+      <rect x="57" y="203" width="16" height="33"/>
+      <rect x="214" y="199" width="16" height="32"/>
+      <rect x="382" y="207" width="16" height="32"/>
+      <circle cx="304" cy="48" r="15"/>
+      <circle cx="65" cy="257" r="15"/>
+      <circle cx="304" cy="112" r="15"/>
+      <circle cx="222" cy="257" r="15"/>
+    </g>
+    <path d="M289 48H319 M65 242V272
+             M313 112H295 M300 107L295 112 300 117
+             M222 266V248 M217 253L222 248 227 253"/>
+    <g fill="#19232d" stroke="none">
+      <circle cx="65" cy="170" r="3.8"/>
+      <circle cx="222" cy="170" r="3.8"/>
+      <circle cx="390" cy="170" r="3.8"/>
+      <circle cx="390" cy="112" r="3.8"/>
+      <circle cx="222" cy="290" r="3.8"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#19232d" stroke-width="1.8" stroke-linecap="round">
+    <path d="M278 64H286 M322 64H330 M326 60V68
+             M45 241H53 M49 237V245 M45 275H53"/>
+  </g>
+  <g fill="#19232d" font-family="Times New Roman" font-size="25" font-style="italic">
+    <g text-anchor="middle">
+      <text x="150" y="28">g<tspan baseline-shift="sub" font-size="15" font-style="normal">13</tspan></text>
+      <text x="304" y="24">E<tspan baseline-shift="sub" font-size="15" font-style="normal">13</tspan></text>
+      <text x="144" y="201">g<tspan baseline-shift="sub" font-size="15" font-style="normal">12</tspan></text>
+      <text x="306" y="201">g<tspan baseline-shift="sub" font-size="15" font-style="normal">23</tspan></text>
+      <text x="304" y="89">I<tspan baseline-shift="sub" font-size="15" font-style="normal">32</tspan></text>
+    </g>
+    <g text-anchor="end">
+      <text x="45" y="223">g<tspan baseline-shift="sub" font-size="15" font-style="normal">10</tspan></text>
+      <text x="37" y="263">E<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
+      <text x="210" y="152">u<tspan baseline-shift="sub" font-size="16" font-style="normal">n2</tspan></text>
+      <text x="378" y="152">u<tspan baseline-shift="sub" font-size="16" font-style="normal">n3</tspan></text>
+    </g>
+    <text x="79" y="152">u<tspan baseline-shift="sub" font-size="16" font-style="normal">n1</tspan></text>
+    <text x="242" y="222">r<tspan baseline-shift="sub" font-size="16">s</tspan></text>
+    <text x="242" y="263">I<tspan baseline-shift="sub" font-size="16">s</tspan></text>
+    <text x="410" y="229">g<tspan baseline-shift="sub" font-size="15" font-style="normal">30</tspan></text>
+    <text x="222" y="314" text-anchor="middle" font-size="23" font-style="normal">0</text>
+  </g>
+</svg>

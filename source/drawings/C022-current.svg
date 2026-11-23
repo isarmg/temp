@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="182" viewBox="-6 -6 536 182" role="img">
+<title>独立电流源短路可行，开路不可行</title>
+<rect x="-6" y="-6" width="536" height="182" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(73.0 71.0) rotate(90.0)">
+<polyline points="-53,0 -20,0"/>
+<polyline points="20,0 53,0"/>
+<circle cx="0" cy="0" r="20.0" fill="white"/>
+<polyline points="0,-20 0,20"/>
+</g>
+<polyline points="198,18 73,18"/>
+<polyline points="73,124 198,124"/>
+<polyline points="198,18 198,124"/>
+<circle cx="198" cy="18" r="3.7" fill="white"/>
+<circle cx="198" cy="124" r="3.7" fill="white"/>
+<text x="213" y="26" font-size="25" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="213" y="131" font-size="25" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="45" y="78.0" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">s</tspan></text>
+<g transform="translate(73 36.0) rotate(-90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<g transform="translate(336.0 71.0) rotate(90.0)">
+<polyline points="-53,0 -20,0"/>
+<polyline points="20,0 53,0"/>
+<circle cx="0" cy="0" r="20.0" fill="white"/>
+<polyline points="0,-20 0,20"/>
+</g>
+<polyline points="461,18 336,18"/>
+<polyline points="336,124 461,124"/>
+<circle cx="461" cy="18" r="3.7" fill="white"/>
+<circle cx="461" cy="124" r="3.7" fill="white"/>
+<text x="476" y="26" font-size="25" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">a</text>
+<text x="476" y="131" font-size="25" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">b</text>
+<text x="308" y="78.0" font-size="25" text-anchor="end" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i<tspan baseline-shift="sub" font-size="73%">s</tspan></text>
+<g transform="translate(336 36.0) rotate(-90)">
+<polyline points="-8,-5.84 0,0 -8,5.84"/>
+</g>
+<text x="398.5" y="162" font-size="32" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">×</text>
+</g>
+</svg>

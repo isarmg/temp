@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="236" viewBox="0 0 660 236" role="img" aria-label="S111-parallel"><rect width="660" height="236" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="46" y1="118" x2="152" y2="118" stroke="#141414" stroke-width="2"/>
+<path d="M 103,122.48 L 111,118 L 103,113.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 152,118 V 42 H 267" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="152" y1="118" x2="267" y2="118" stroke="#141414" stroke-width="2"/>
+<path d="M 259,122.48 L 267,118 L 259,113.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 152,118 V 194 H 267" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 259,46.48 L 267,42 L 259,37.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 259,198.48 L 267,194 L 259,189.52" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="152" cy="118" r="3.2" fill="#141414" stroke="#141414" stroke-width="1.55"/>
+<rect x="267" y="21" width="114" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="324" y="50" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">H₁(s)</text>
+<rect x="267" y="97" width="114" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="324" y="126" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">H₂(s)</text>
+<rect x="267" y="173" width="114" height="42" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="324" y="202" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">H₃(s)</text>
+<path d="M 381,42 H 524 V 97" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="381" y1="118" x2="503" y2="118" stroke="#141414" stroke-width="2"/>
+<path d="M 495,122.48 L 503,118 L 495,113.52" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 381,194 H 524 V 139" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 519.52,89 L 524,97 L 528.48,89" fill="none" stroke="#141414" stroke-width="2"/>
+<path d="M 528.48,147 L 524,139 L 519.52,147" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="524" cy="118" r="21" fill="white" stroke="#141414" stroke-width="2"/>
+<text x="524" y="126" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414">Σ</text>
+<line x1="545" y1="118" x2="614" y2="118" stroke="#141414" stroke-width="2"/>
+<path d="M 606,122.48 L 614,118 L 606,113.52" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="47" y="103" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">F</text>
+<text x="613" y="103" font-family="Times New Roman" font-size="24" text-anchor="middle" fill="#141414" font-style="italic">Y</text>
+</g></svg>

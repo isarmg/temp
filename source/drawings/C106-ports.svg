@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="112" viewBox="0 0 410 112">
+<rect width="410" height="112" fill="#fff"/>
+<g fill="none" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="164" y="11" width="82" height="91" fill="#fff"/>
+<path d="M103,28 L164,28"/>
+<path d="M246,28 L307,28"/>
+<circle cx="103" cy="28" r="2.5" fill="#fff"/>
+<circle cx="307" cy="28" r="2.5" fill="#fff"/>
+<path d="M103,86 L164,86"/>
+<path d="M246,86 L307,86"/>
+<circle cx="103" cy="86" r="2.5" fill="#fff"/>
+<circle cx="307" cy="86" r="2.5" fill="#fff"/>
+<text x="103" y="39" text-anchor="middle" font-family="Times New Roman" font-size="12" font-style="normal" fill="#151515" stroke="none">+</text>
+<text x="103" y="61" text-anchor="middle" font-family="STIX Two Math" font-size="14" font-style="italic" fill="#151515" stroke="none">U̇<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+<text x="103" y="82" text-anchor="middle" font-family="Times New Roman" font-size="12" font-style="normal" fill="#151515" stroke="none">−</text>
+<text x="307" y="39" text-anchor="middle" font-family="Times New Roman" font-size="12" font-style="normal" fill="#151515" stroke="none">+</text>
+<text x="307" y="61" text-anchor="middle" font-family="STIX Two Math" font-size="14" font-style="italic" fill="#151515" stroke="none">U̇<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+<text x="307" y="82" text-anchor="middle" font-family="Times New Roman" font-size="12" font-style="normal" fill="#151515" stroke="none">−</text>
+<path d="M137.5,31.5 L141,28 L137.5,24.5"/>
+<path d="M272.5,24.5 L269,28 L272.5,31.5"/>
+<text x="141" y="21" text-anchor="middle" font-family="STIX Two Math" font-size="14" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">1</tspan></text>
+<text x="269" y="21" text-anchor="middle" font-family="STIX Two Math" font-size="14" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">2</tspan></text>
+<text x="205" y="51" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">二端口</text>
+<text x="195" y="73" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="15" font-style="normal" fill="#151515" stroke="none">电路</text>
+<text x="225" y="73" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">N<tspan baseline-shift="sub" font-size="69%">0</tspan></text>
+<text x="50" y="54" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="14" font-style="normal" fill="#151515" stroke="none">输入端口</text>
+<text x="50" y="76" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="14" font-style="normal" fill="#151515" stroke="none">（入口）</text>
+<text x="360" y="54" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="14" font-style="normal" fill="#151515" stroke="none">输出端口</text>
+<text x="360" y="76" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="14" font-style="normal" fill="#151515" stroke="none">（出口）</text>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="125" viewBox="0 0 170 125">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="none" stroke="#181818" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" font-family="Liberation Serif, DejaVu Serif, serif">
+<polyline points="8,113 157,113"/>
+<polyline points="152,109.7 157,113 152,116.3"/>
+<polyline points="8,113 106,24"/>
+<polyline points="100.08,24.9186 106,24 104.517,29.8044"/>
+<path d="M 40,113 A 32,32 0 0 0 31.7,91.5"/>
+<text x="78" y="22" font-size="19" text-anchor="middle" font-style="italic" fill="#181818" stroke="none" font-family="STIX Two Math">U̇<tspan font-size="69%" baseline-shift="sub">m</tspan></text>
+</g>
+</svg>

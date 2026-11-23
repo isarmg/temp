@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="105" viewBox="0 0 252 105" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>一阶后向差分系统框图</title>
+<rect width="252" height="105" fill="#ffffff"/>
+<polyline points="8.00,42.00 60.00,42.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="54.82,45.03 60.00,42.00 54.82,38.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="78.00,42.00 132.00,42.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="126.82,45.03 132.00,42.00 126.82,38.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="108.00,42.00 108.00,19.00 236.00,19.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="230.82,22.03 236.00,19.00 230.82,15.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<circle cx="69" cy="42" r="9" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="69" y="47.1" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="normal" text-anchor="middle">Σ</text>
+<rect x="132" y="28" width="29" height="28" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="146.5" y="48.27" fill="#15191d" font-family="Times New Roman" font-size="19" font-style="normal" text-anchor="middle">D</text>
+<circle cx="108" cy="42" r="1.8" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="161.00,42.00 196.00,42.00 196.00,80.00 69.00,80.00 69.00,51.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="72.03,56.18 69.00,51.00 65.97,56.18" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<text x="80" y="63" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">−</text>
+<text x="132" y="98" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">a</text>
+<text x="24" y="31" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">f(k)</text>
+<text x="184" y="13" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">y(k)</text>
+<text x="190" y="36" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="italic" text-anchor="middle">y(k−1)</text>
+</svg>

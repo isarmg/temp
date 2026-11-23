@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="163" viewBox="0 0 506 163" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>卷积分配律的系统框图</title>
+<rect width="506" height="163" fill="#ffffff"/>
+<polyline points="10.00,81.00 73.00,81.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="67.82,84.03 73.00,81.00 67.82,77.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="125.00,81.00 185.00,81.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="179.82,84.03 185.00,81.00 179.82,77.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<rect x="73" y="62" width="52" height="38" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="99" y="87" fill="#15191d" font-family="Times New Roman" font-size="19" font-style="italic" text-anchor="middle">h(t)</text>
+<text x="24" y="70" fill="#15191d" font-family="STIX Two Math" font-size="18" font-style="italic" text-anchor="middle">f₁(t)</text>
+<text x="166" y="70" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="middle">y(t)</text>
+<text x="214" y="89" fill="#15191d" font-family="Times New Roman" font-size="28" font-style="normal" text-anchor="middle">=</text>
+<polyline points="242.00,81.00 293.00,81.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="287.82,84.03 293.00,81.00 287.82,77.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="293.00,81.00 293.00,35.00 337.00,35.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="331.82,38.03 337.00,35.00 331.82,31.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="293.00,81.00 293.00,125.00 337.00,125.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="331.82,128.03 337.00,125.00 331.82,121.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<rect x="337" y="18" width="53" height="34" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<rect x="337" y="108" width="53" height="34" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="363.5" y="42" fill="#15191d" font-family="STIX Two Math" font-size="18" font-style="italic" text-anchor="middle">h₂(t)</text>
+<text x="363.5" y="132" fill="#15191d" font-family="STIX Two Math" font-size="18" font-style="italic" text-anchor="middle">h₃(t)</text>
+<text x="370" y="69" fill="#15191d" font-family="STIX Two Math" font-size="17" font-style="italic" text-anchor="middle">h₂(t)=f₂(t)</text>
+<text x="370" y="100" fill="#15191d" font-family="STIX Two Math" font-size="17" font-style="italic" text-anchor="middle">h₃(t)=f₃(t)</text>
+<polyline points="390.00,35.00 453.00,35.00 453.00,72.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="449.97,66.82 453.00,72.00 456.03,66.82" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="390.00,125.00 453.00,125.00 453.00,90.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="456.03,95.18 453.00,90.00 449.97,95.18" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<circle cx="453" cy="81" r="9" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="453" y="86.1" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="normal" text-anchor="middle">Σ</text>
+<polyline points="462.00,81.00 498.00,81.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="492.82,84.03 498.00,81.00 492.82,77.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<text x="260" y="69" fill="#15191d" font-family="STIX Two Math" font-size="18" font-style="italic" text-anchor="middle">f₁(t)</text>
+<text x="483" y="69" fill="#15191d" font-family="Times New Roman" font-size="18" font-style="italic" text-anchor="middle">y(t)</text>
+</svg>

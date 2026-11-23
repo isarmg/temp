@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="100" viewBox="0 0 231 100" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>一阶系统框图</title>
+<rect width="231" height="100" fill="#ffffff"/>
+<polyline points="9.00,37.00 60.00,37.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="54.82,40.03 60.00,37.00 54.82,33.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="78.00,37.00 142.00,37.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="136.82,40.03 142.00,37.00 136.82,33.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="170.00,37.00 220.00,37.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="214.82,40.03 220.00,37.00 214.82,33.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<circle cx="69" cy="37" r="9" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="69" y="42.1" fill="#15191d" font-family="Times New Roman" font-size="14" font-style="normal" text-anchor="middle">Σ</text>
+<rect x="142" y="20" width="28" height="34" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="156.0" y="43.27" fill="#15191d" font-family="Times New Roman" font-size="19" font-style="normal" text-anchor="middle">D</text>
+<circle cx="188" cy="37" r="1.8" fill="#15191d" stroke="#15191d" stroke-width="1"/>
+<polyline points="188.00,37.00 188.00,72.00 69.00,72.00 69.00,46.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="72.03,51.18 69.00,46.00 65.97,51.18" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<text x="81" y="57" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">−</text>
+<text x="129" y="91" fill="#15191d" font-family="Times New Roman" font-size="17" font-style="italic" text-anchor="middle">a</text>
+<text x="28" y="25" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">f(k)</text>
+<text x="109" y="25" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">y(k+1)</text>
+<text x="198" y="25" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">y(k)</text>
+</svg>

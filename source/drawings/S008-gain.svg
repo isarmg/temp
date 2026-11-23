@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="79" viewBox="0 0 155 79" role="img" stroke-linecap="round" stroke-linejoin="round">
+<title>数乘器的两种画法</title>
+<rect width="155" height="79" fill="#ffffff"/>
+<polyline points="8.00,32.00 66.00,32.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="60.82,35.03 66.00,32.00 60.82,28.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="87.00,32.00 147.00,32.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="141.82,35.03 147.00,32.00 141.82,28.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<circle cx="76.5" cy="32" r="10.5" fill="white" stroke="#15191d" stroke-width="1.65"/>
+<text x="76.5" y="36.6" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="middle">a</text>
+<text x="22" y="22" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">f(t)</text>
+<text x="125" y="22" fill="#15191d" font-family="Times New Roman" font-size="16" font-style="italic" text-anchor="middle">y(t)</text>
+<polyline points="8.00,68.00 69.00,68.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="54.00,68.00 83.00,68.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="77.82,71.03 83.00,68.00 77.82,64.97" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<polyline points="82.00,68.00 147.00,68.00" fill="none" stroke="#15191d" stroke-width="1.65"/>
+<text x="84" y="61" fill="#15191d" font-family="Times New Roman" font-size="15" font-style="italic" text-anchor="start">a</text>
+</svg>

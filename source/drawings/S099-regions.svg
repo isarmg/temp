@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="604" height="230" viewBox="0 0 604 230" role="img" aria-label="s 平面与 z 平面的区域对应">
+  <title>s 平面与 z 平面的区域对应</title>
+  <desc>映射 z=e^(sT) 下，左图边界 σ=σ₀ 右侧映为右图圆 |z|=e^(σ₀T) 外部。</desc>
+  <rect width="604" height="230" fill="white"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+            <path d="M 167.0000,31.0000 L 172.0000,26.0000 M 167.0000,42.0000 L 183.0000,26.0000 M 167.0000,53.0000 L 194.0000,26.0000 M 167.0000,64.0000 L 205.0000,26.0000 M 167.0000,75.0000 L 216.0000,26.0000 M 167.0000,86.0000 L 227.0000,26.0000 M 167.0000,97.0000 L 233.0000,31.0000 M 167.0000,108.0000 L 233.0000,42.0000 M 167.0000,119.0000 L 233.0000,53.0000 M 167.0000,130.0000 L 233.0000,64.0000 M 167.0000,141.0000 L 233.0000,75.0000 M 167.0000,152.0000 L 233.0000,86.0000 M 167.0000,163.0000 L 233.0000,97.0000 M 167.0000,174.0000 L 233.0000,108.0000 M 167.0000,185.0000 L 233.0000,119.0000 M 167.0000,196.0000 L 233.0000,130.0000 M 168.0000,206.0000 L 233.0000,141.0000 M 179.0000,206.0000 L 233.0000,152.0000 M 190.0000,206.0000 L 233.0000,163.0000 M 201.0000,206.0000 L 233.0000,174.0000 M 212.0000,206.0000 L 233.0000,185.0000 M 223.0000,206.0000 L 233.0000,196.0000" stroke="#141414" fill="none" stroke-width="1.1" stroke-linecap="butt"/><rect x="167" y="26" width="66" height="180" fill="none" stroke="#141414" stroke-width="0"/>
+<line x1="167" y1="25" x2="167" y2="207" stroke="#141414" stroke-width="2"/>
+<line x1="16" y1="111" x2="237" y2="111" stroke="#141414" stroke-width="2"/>
+<path d="M 230,114.92 L 237,111 L 230,107.08" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="108" y1="211" x2="108" y2="16" stroke="#141414" stroke-width="2"/>
+<path d="M 111.92,23 L 108,16 L 104.08,23" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="244" y="116" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">σ</text>
+<text x="115" y="22" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">jω</text>
+<text x="98" y="132" font-family="Times New Roman" font-size="17" text-anchor="middle" fill="#141414">0</text>
+<path d="M 353.0000,32.0000 L 358.0000,27.0000 M 353.0000,43.0000 L 369.0000,27.0000 M 353.0000,54.0000 L 380.0000,27.0000 M 353.0000,65.0000 L 391.0000,27.0000 M 353.0000,76.0000 L 402.0000,27.0000 M 353.0000,87.0000 L 413.0000,27.0000 M 353.0000,98.0000 L 424.0000,27.0000 M 353.0000,109.0000 L 435.0000,27.0000 M 353.0000,120.0000 L 446.0000,27.0000 M 353.0000,131.0000 L 457.0000,27.0000 M 353.0000,142.0000 L 468.0000,27.0000 M 353.0000,153.0000 L 479.0000,27.0000 M 353.0000,164.0000 L 490.0000,27.0000 M 353.0000,175.0000 L 501.0000,27.0000 M 353.0000,186.0000 L 512.0000,27.0000 M 353.0000,197.0000 L 519.0000,31.0000 M 357.0000,204.0000 L 519.0000,42.0000 M 368.0000,204.0000 L 519.0000,53.0000 M 379.0000,204.0000 L 519.0000,64.0000 M 390.0000,204.0000 L 519.0000,75.0000 M 401.0000,204.0000 L 519.0000,86.0000 M 412.0000,204.0000 L 519.0000,97.0000 M 423.0000,204.0000 L 519.0000,108.0000 M 434.0000,204.0000 L 519.0000,119.0000 M 445.0000,204.0000 L 519.0000,130.0000 M 456.0000,204.0000 L 519.0000,141.0000 M 467.0000,204.0000 L 519.0000,152.0000 M 478.0000,204.0000 L 519.0000,163.0000 M 489.0000,204.0000 L 519.0000,174.0000 M 500.0000,204.0000 L 519.0000,185.0000 M 511.0000,204.0000 L 519.0000,196.0000" stroke="#141414" fill="none" stroke-width="1.1" stroke-linecap="butt"/><rect x="353" y="27" width="166" height="177" fill="none" stroke="#141414" stroke-width="0"/>
+<circle cx="436" cy="111" r="62" fill="white" stroke="#141414" stroke-width="2"/>
+<line x1="332" y1="111" x2="526" y2="111" stroke="#141414" stroke-width="2"/>
+<path d="M 519,114.92 L 526,111 L 519,107.08" fill="none" stroke="#141414" stroke-width="2"/>
+<line x1="436" y1="205" x2="436" y2="14" stroke="#141414" stroke-width="2"/>
+<path d="M 439.92,21 L 436,14 L 432.08,21" fill="none" stroke="#141414" stroke-width="2"/>
+<text x="533" y="116" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">Re[z]</text>
+<text x="443" y="20" font-family="Times New Roman" font-size="19" text-anchor="start" fill="#141414" font-style="italic">Im[z]</text>
+<g fill="#141414" font-family="Times New Roman" font-size="20" text-anchor="middle"><text x="167" y="223"><tspan font-style="italic">σ</tspan><tspan> = </tspan><tspan font-style="italic">σ</tspan><tspan font-size="13" baseline-shift="sub">0</tspan></text><text x="428" y="132" font-size="17">0</text><text x="436" y="225"><tspan>|</tspan><tspan font-style="italic">z</tspan><tspan>| = </tspan><tspan font-style="italic">e</tspan><tspan font-size="14" font-style="italic" dy="-8">σ</tspan><tspan font-size="9.5" font-style="normal" dy="3.4">0</tspan><tspan dy="-3.4" font-size="14" font-style="italic">T</tspan></text></g></g>
+</svg>

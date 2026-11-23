@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="193" viewBox="-6 -6 828 193" role="img">
+<title>替代定理的一端口与电压源、电流源等效</title>
+<rect x="-6" y="-6" width="828" height="193" fill="white"/>
+<g fill="none" stroke="#19232d" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round">
+<rect x="18" y="17" width="102" height="145" fill="white"/>
+<text x="69.0" y="98.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">N</text>
+<polyline points="120,41 189,41"/>
+<polyline points="120,136 189,136"/>
+<g transform="translate(189.0 88.5) rotate(90.0)">
+<polyline points="-47.5,0 -22.5,0"/>
+<polyline points="22.5,0 47.5,0"/>
+<rect x="-22.5" y="-9" width="45" height="18" fill="white"/>
+</g>
+<g transform="translate(152 41) rotate(0)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="152" y="31" font-size="22" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">i</text>
+<text x="204" y="63" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="204" y="127" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="211" y="96" font-size="24" text-anchor="start" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">u</text>
+<rect x="269" y="17" width="102" height="145" fill="white"/>
+<text x="320.0" y="98.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">N</text>
+<polyline points="371,41 440,41"/>
+<polyline points="371,136 440,136"/>
+<g transform="translate(440.0 88.5) rotate(90.0)">
+<polyline points="-47.5,0 -18,0"/>
+<polyline points="18,0 47.5,0"/>
+<circle cx="0" cy="0" r="18.0" fill="white"/>
+<polyline points="-18,0 18,0"/>
+</g>
+<text x="455" y="63" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">+</text>
+<text x="455" y="127" font-size="17" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="normal">−</text>
+<text x="505" y="98" text-anchor="middle" font-family="Times New Roman" font-style="italic" font-size="24" stroke="none" fill="#19232d">u<tspan baseline-shift="sub" font-size="72%">s</tspan><tspan font-style="normal"> = </tspan>u</text>
+<rect x="548" y="17" width="102" height="145" fill="white"/>
+<text x="599.0" y="98.5" font-size="28" text-anchor="middle" stroke="none" fill="#19232d" font-family="Times New Roman" font-style="italic">N</text>
+<polyline points="650,41 719,41"/>
+<polyline points="650,136 719,136"/>
+<g transform="translate(719.0 88.5) rotate(90.0)">
+<polyline points="-47.5,0 -18,0"/>
+<polyline points="18,0 47.5,0"/>
+<circle cx="0" cy="0" r="18.0" fill="white"/>
+<polyline points="0,-18 0,18"/>
+</g>
+<g transform="translate(719 117) rotate(90)">
+<polyline points="-9,-6.57 0,0 -9,6.57"/>
+</g>
+<text x="784" y="124" text-anchor="middle" font-family="Times New Roman" font-style="italic" font-size="24" stroke="none" fill="#19232d">i<tspan baseline-shift="sub" font-size="72%">s</tspan><tspan font-style="normal"> = </tspan>i</text>
+</g>
+</svg>

@@ -1,0 +1,927 @@
+{
+  "C018-directions.svg": {
+    "png": "word/media/rId21.png",
+    "png_width": 2184,
+    "svg": "word/media/C018-directions.svg"
+  },
+  "C019-general.svg": {
+    "png": "word/media/rId28.png",
+    "png_width": 903,
+    "svg": "word/media/C019-general.svg"
+  },
+  "C019-loop.svg": {
+    "png": "word/media/rId31.png",
+    "png_width": 924,
+    "svg": "word/media/C019-loop.svg"
+  },
+  "C019-node.svg": {
+    "png": "word/media/rId25.png",
+    "png_width": 609,
+    "svg": "word/media/C019-node.svg"
+  },
+  "C021-current.svg": {
+    "png": "word/media/rId54.png",
+    "png_width": 630,
+    "svg": "word/media/C021-current.svg"
+  },
+  "C021-open.svg": {
+    "png": "word/media/rId38.png",
+    "png_width": 558,
+    "svg": "word/media/C021-open.svg"
+  },
+  "C021-resistor.svg": {
+    "png": "word/media/rId35.png",
+    "png_width": 2268,
+    "svg": "word/media/C021-resistor.svg"
+  },
+  "C021-short.svg": {
+    "png": "word/media/rId41.png",
+    "png_width": 444,
+    "svg": "word/media/C021-short.svg"
+  },
+  "C021-voltage-dir.svg": {
+    "png": "word/media/rId48.png",
+    "png_width": 693,
+    "svg": "word/media/C021-voltage-dir.svg"
+  },
+  "C021-voltage-short.svg": {
+    "png": "word/media/rId51.png",
+    "png_width": 1848,
+    "svg": "word/media/C021-voltage-short.svg"
+  },
+  "C021-voltage.svg": {
+    "png": "word/media/rId45.png",
+    "png_width": 693,
+    "svg": "word/media/C021-voltage.svg"
+  },
+  "C022-current.svg": {
+    "png": "word/media/rId57.png",
+    "png_width": 1827,
+    "svg": "word/media/C022-current.svg"
+  },
+  "C022-dependent.svg": {
+    "png": "word/media/rId60.png",
+    "png_width": 2730,
+    "svg": "word/media/C022-dependent.svg"
+  },
+  "C023-equivalent.svg": {
+    "png": "word/media/rId64.png",
+    "png_width": 2793,
+    "svg": "word/media/C023-equivalent.svg"
+  },
+  "C023-parallel.svg": {
+    "png": "word/media/rId70.png",
+    "png_width": 2226,
+    "svg": "word/media/C023-parallel.svg"
+  },
+  "C023-series.svg": {
+    "png": "word/media/rId67.png",
+    "png_width": 2390,
+    "svg": "word/media/C023-series.svg"
+  },
+  "C023-two.svg": {
+    "png": "word/media/rId73.png",
+    "png_width": 777,
+    "svg": "word/media/C023-two.svg"
+  },
+  "C025-star-delta.svg": {
+    "png": "word/media/rId77.png",
+    "png_width": 2646,
+    "svg": "word/media/C025-star-delta.svg"
+  },
+  "C026-fig-1.svg": {
+    "png": "word/media/rId80.png",
+    "png_width": 2436,
+    "svg": "word/media/C026-fig-1.svg"
+  },
+  "C026-fig-2.svg": {
+    "png": "word/media/rId83.png",
+    "png_width": 1848,
+    "svg": "word/media/C026-fig-2.svg"
+  },
+  "C030-source.svg": {
+    "png": "word/media/rId88.png",
+    "png_width": 1512,
+    "svg": "word/media/C030-source.svg"
+  },
+  "C030-unpaired-common.svg": {
+    "png": "word/media/rId94.png",
+    "png_width": 1470,
+    "svg": "word/media/C030-unpaired-common.svg"
+  },
+  "C030-unpaired-single.svg": {
+    "png": "word/media/rId91.png",
+    "png_width": 1470,
+    "svg": "word/media/C030-unpaired-single.svg"
+  },
+  "C033-ground.svg": {
+    "png": "word/media/rId98.png",
+    "png_width": 420,
+    "svg": "word/media/C033-ground.svg"
+  },
+  "C033-nodes.svg": {
+    "png": "word/media/rId101.png",
+    "png_width": 672,
+    "svg": "word/media/C033-nodes.svg"
+  },
+  "C037-substitution.svg": {
+    "png": "word/media/rId105.png",
+    "png_width": 2058,
+    "svg": "word/media/C037-substitution.svg"
+  },
+  "C038-equivalent.svg": {
+    "png": "word/media/rId109.png",
+    "png_width": 2730,
+    "svg": "word/media/C038-equivalent.svg"
+  },
+  "C039-directions.svg": {
+    "png": "word/media/rId112.png",
+    "png_width": 2066,
+    "svg": "word/media/C039-directions.svg"
+  },
+  "C042-load.svg": {
+    "png": "word/media/rId116.png",
+    "png_width": 790,
+    "svg": "word/media/C042-load.svg"
+  },
+  "C043-circuits.svg": {
+    "png": "word/media/rId120.png",
+    "png_width": 2394,
+    "svg": "word/media/C043-circuits.svg"
+  },
+  "C044-form-1.svg": {
+    "png": "word/media/rId123.png",
+    "png_width": 2541,
+    "svg": "word/media/C044-form-1.svg"
+  },
+  "C044-form-2.svg": {
+    "png": "word/media/rId126.png",
+    "png_width": 2415,
+    "svg": "word/media/C044-form-2.svg"
+  },
+  "C045-reciprocity.svg": {
+    "png": "word/media/rId129.png",
+    "png_width": 2646,
+    "svg": "word/media/C045-reciprocity.svg"
+  },
+  "C047-capacitor.svg": {
+    "png": "word/media/rId134.png",
+    "png_width": 609,
+    "svg": "word/media/C047-capacitor.svg"
+  },
+  "C047-parallel.svg": {
+    "png": "word/media/rId143.png",
+    "png_width": 1449,
+    "svg": "word/media/C047-parallel.svg"
+  },
+  "C047-series.svg": {
+    "png": "word/media/rId137.png",
+    "png_width": 1932,
+    "svg": "word/media/C047-series.svg"
+  },
+  "C047-two.svg": {
+    "png": "word/media/rId140.png",
+    "png_width": 1533,
+    "svg": "word/media/C047-two.svg"
+  },
+  "C049-inductor.svg": {
+    "png": "word/media/rId146.png",
+    "png_width": 588,
+    "svg": "word/media/C049-inductor.svg"
+  },
+  "C049-parallel.svg": {
+    "png": "word/media/rId152.png",
+    "png_width": 1533,
+    "svg": "word/media/C049-parallel.svg"
+  },
+  "C049-series.svg": {
+    "png": "word/media/rId149.png",
+    "png_width": 1680,
+    "svg": "word/media/C049-series.svg"
+  },
+  "C066-phasor.svg": {
+    "png": "word/media/rId162.png",
+    "png_width": 651,
+    "svg": "word/media/C066-phasor.svg"
+  },
+  "C069-c.svg": {
+    "png": "word/media/rId184.png",
+    "png_width": 466,
+    "svg": "word/media/C069-c.svg"
+  },
+  "C069-cp.svg": {
+    "png": "word/media/rId190.png",
+    "png_width": 420,
+    "svg": "word/media/C069-cp.svg"
+  },
+  "C069-cz.svg": {
+    "png": "word/media/rId187.png",
+    "png_width": 475,
+    "svg": "word/media/C069-cz.svg"
+  },
+  "C069-l.svg": {
+    "png": "word/media/rId175.png",
+    "png_width": 466,
+    "svg": "word/media/C069-l.svg"
+  },
+  "C069-lp.svg": {
+    "png": "word/media/rId181.png",
+    "png_width": 420,
+    "svg": "word/media/C069-lp.svg"
+  },
+  "C069-lz.svg": {
+    "png": "word/media/rId178.png",
+    "png_width": 475,
+    "svg": "word/media/C069-lz.svg"
+  },
+  "C069-r.svg": {
+    "png": "word/media/rId166.png",
+    "png_width": 466,
+    "svg": "word/media/C069-r.svg"
+  },
+  "C069-rp.svg": {
+    "png": "word/media/rId172.png",
+    "png_width": 420,
+    "svg": "word/media/C069-rp.svg"
+  },
+  "C069-rz.svg": {
+    "png": "word/media/rId169.png",
+    "png_width": 475,
+    "svg": "word/media/C069-rz.svg"
+  },
+  "C071-port.svg": {
+    "png": "word/media/rId194.png",
+    "png_width": 420,
+    "svg": "word/media/C071-port.svg"
+  },
+  "C071-y.svg": {
+    "png": "word/media/rId200.png",
+    "png_width": 487,
+    "svg": "word/media/C071-y.svg"
+  },
+  "C071-z.svg": {
+    "png": "word/media/rId197.png",
+    "png_width": 487,
+    "svg": "word/media/C071-z.svg"
+  },
+  "C075-rlc-parameters.svg": {
+    "png": "word/media/rId204.png",
+    "png_width": 1323,
+    "svg": "word/media/C075-rlc-parameters.svg"
+  },
+  "C079-power.svg": {
+    "png": "word/media/rId208.png",
+    "png_width": 504,
+    "svg": "word/media/C079-power.svg"
+  },
+  "C083-multifrequency.svg": {
+    "png": "word/media/rId211.png",
+    "png_width": 693,
+    "svg": "word/media/C083-multifrequency.svg"
+  },
+  "C085-power-factor.svg": {
+    "png": "word/media/rId214.png",
+    "png_width": 588,
+    "svg": "word/media/C085-power-factor.svg"
+  },
+  "C087-different-equivalent.svg": {
+    "png": "word/media/rId227.png",
+    "png_width": 924,
+    "svg": "word/media/C087-different-equivalent.svg"
+  },
+  "C087-different.svg": {
+    "png": "word/media/rId221.png",
+    "png_width": 638,
+    "svg": "word/media/C087-different.svg"
+  },
+  "C087-parallel.svg": {
+    "png": "word/media/rId236.png",
+    "png_width": 1596,
+    "svg": "word/media/C087-parallel.svg"
+  },
+  "C087-same-equivalent.svg": {
+    "png": "word/media/rId224.png",
+    "png_width": 924,
+    "svg": "word/media/C087-same-equivalent.svg"
+  },
+  "C087-same.svg": {
+    "png": "word/media/rId218.png",
+    "png_width": 638,
+    "svg": "word/media/C087-same.svg"
+  },
+  "C087-series-aiding.svg": {
+    "png": "word/media/rId230.png",
+    "png_width": 924,
+    "svg": "word/media/C087-series-aiding.svg"
+  },
+  "C087-series-opposing.svg": {
+    "png": "word/media/rId233.png",
+    "png_width": 924,
+    "svg": "word/media/C087-series-opposing.svg"
+  },
+  "C088-coupled-meshes.svg": {
+    "png": "word/media/rId242.png",
+    "png_width": 1491,
+    "svg": "word/media/C088-coupled-meshes.svg"
+  },
+  "C088-fig-a1.svg": {
+    "png": "word/media/rId239.png",
+    "png_width": 1428,
+    "svg": "word/media/C088-fig-a1.svg"
+  },
+  "C090-different.svg": {
+    "png": "word/media/rId249.png",
+    "png_width": 748,
+    "svg": "word/media/C090-different.svg"
+  },
+  "C090-impedance.svg": {
+    "png": "word/media/rId252.png",
+    "png_width": 798,
+    "svg": "word/media/C090-impedance.svg"
+  },
+  "C090-same.svg": {
+    "png": "word/media/rId246.png",
+    "png_width": 748,
+    "svg": "word/media/C090-same.svg"
+  },
+  "C090-transformer-matching.svg": {
+    "png": "word/media/rId255.png",
+    "png_width": 1218,
+    "svg": "word/media/C090-transformer-matching.svg"
+  },
+  "C093-low-pass.svg": {
+    "png": "word/media/rId260.png",
+    "png_width": 651,
+    "svg": "word/media/C093-low-pass.svg"
+  },
+  "C094-fig-1.svg": {
+    "png": "word/media/rId263.png",
+    "png_width": 1428,
+    "svg": "word/media/C094-fig-1.svg"
+  },
+  "C095-high-curve.svg": {
+    "png": "word/media/rId275.png",
+    "png_width": 1016,
+    "svg": "word/media/C095-high-curve.svg"
+  },
+  "C095-high.svg": {
+    "png": "word/media/rId269.png",
+    "png_width": 680,
+    "svg": "word/media/C095-high.svg"
+  },
+  "C095-low-curve.svg": {
+    "png": "word/media/rId272.png",
+    "png_width": 1016,
+    "svg": "word/media/C095-low-curve.svg"
+  },
+  "C095-low.svg": {
+    "png": "word/media/rId266.png",
+    "png_width": 676,
+    "svg": "word/media/C095-low.svg"
+  },
+  "C096-rc-phasor.svg": {
+    "png": "word/media/rId278.png",
+    "png_width": 2205,
+    "svg": "word/media/C096-rc-phasor.svg"
+  },
+  "C097-parallel.svg": {
+    "png": "word/media/rId285.png",
+    "png_width": 722,
+    "svg": "word/media/C097-parallel.svg"
+  },
+  "C097-series.svg": {
+    "png": "word/media/rId282.png",
+    "png_width": 739,
+    "svg": "word/media/C097-series.svg"
+  },
+  "C097-simple.svg": {
+    "png": "word/media/rId288.png",
+    "png_width": 651,
+    "svg": "word/media/C097-simple.svg"
+  },
+  "C098-equivalent.svg": {
+    "png": "word/media/rId291.png",
+    "png_width": 1869,
+    "svg": "word/media/C098-equivalent.svg"
+  },
+  "C101-double.svg": {
+    "png": "word/media/rId295.png",
+    "png_width": 1911,
+    "svg": "word/media/C101-double.svg"
+  },
+  "C101-resistance.svg": {
+    "png": "word/media/rId298.png",
+    "png_width": 1218,
+    "svg": "word/media/C101-resistance.svg"
+  },
+  "C101-source.svg": {
+    "png": "word/media/rId301.png",
+    "png_width": 1218,
+    "svg": "word/media/C101-source.svg"
+  },
+  "C102-double.svg": {
+    "png": "word/media/rId304.png",
+    "png_width": 2016,
+    "svg": "word/media/C102-double.svg"
+  },
+  "C102-resistance.svg": {
+    "png": "word/media/rId307.png",
+    "png_width": 1197,
+    "svg": "word/media/C102-resistance.svg"
+  },
+  "C102-source.svg": {
+    "png": "word/media/rId310.png",
+    "png_width": 1197,
+    "svg": "word/media/C102-source.svg"
+  },
+  "C106-ports.svg": {
+    "png": "word/media/rId315.png",
+    "png_width": 1932,
+    "svg": "word/media/C106-ports.svg"
+  },
+  "C107-asymmetric.svg": {
+    "png": "word/media/rId324.png",
+    "png_width": 1142,
+    "svg": "word/media/C107-asymmetric.svg"
+  },
+  "C107-pi.svg": {
+    "png": "word/media/rId321.png",
+    "png_width": 882,
+    "svg": "word/media/C107-pi.svg"
+  },
+  "C107-t.svg": {
+    "png": "word/media/rId318.png",
+    "png_width": 882,
+    "svg": "word/media/C107-t.svg"
+  },
+  "C107-tee-pi.svg": {
+    "png": "word/media/rId327.png",
+    "png_width": 2184,
+    "svg": "word/media/C107-tee-pi.svg"
+  },
+  "C109-transistor-parameters.svg": {
+    "png": "word/media/rId330.png",
+    "png_width": 1092,
+    "svg": "word/media/C109-transistor-parameters.svg"
+  },
+  "C110-rc-parameters.svg": {
+    "png": "word/media/rId333.png",
+    "png_width": 1092,
+    "svg": "word/media/C110-rc-parameters.svg"
+  },
+  "C111-transformer-parameters.svg": {
+    "png": "word/media/rId336.png",
+    "png_width": 1092,
+    "svg": "word/media/C111-transformer-parameters.svg"
+  },
+  "C112-vccs-parameters.svg": {
+    "png": "word/media/rId339.png",
+    "png_width": 1092,
+    "svg": "word/media/C112-vccs-parameters.svg"
+  },
+  "S004-gate.svg": {
+    "png": "word/media/rId362.png",
+    "png_width": 777,
+    "svg": "word/media/S004-gate.svg"
+  },
+  "S004-impulse-derivative.svg": {
+    "png": "word/media/rId359.png",
+    "png_width": 580,
+    "svg": "word/media/S004-impulse-derivative.svg"
+  },
+  "S004-impulse.svg": {
+    "png": "word/media/rId356.png",
+    "png_width": 559,
+    "svg": "word/media/S004-impulse.svg"
+  },
+  "S004-ramp.svg": {
+    "png": "word/media/rId347.png",
+    "png_width": 588,
+    "svg": "word/media/S004-ramp.svg"
+  },
+  "S004-step-discrete.svg": {
+    "png": "word/media/rId353.png",
+    "png_width": 538,
+    "svg": "word/media/S004-step-discrete.svg"
+  },
+  "S004-step.svg": {
+    "png": "word/media/rId350.png",
+    "png_width": 538,
+    "svg": "word/media/S004-step.svg"
+  },
+  "S005-sign.svg": {
+    "png": "word/media/rId365.png",
+    "png_width": 819,
+    "svg": "word/media/S005-sign.svg"
+  },
+  "S008-first.svg": {
+    "png": "word/media/rId378.png",
+    "png_width": 1092,
+    "svg": "word/media/S008-first.svg"
+  },
+  "S008-gain.svg": {
+    "png": "word/media/rId372.png",
+    "png_width": 643,
+    "svg": "word/media/S008-gain.svg"
+  },
+  "S008-integrator.svg": {
+    "png": "word/media/rId369.png",
+    "png_width": 630,
+    "svg": "word/media/S008-integrator.svg"
+  },
+  "S008-second-input.svg": {
+    "png": "word/media/rId384.png",
+    "png_width": 1436,
+    "svg": "word/media/S008-second-input.svg"
+  },
+  "S008-second.svg": {
+    "png": "word/media/rId381.png",
+    "png_width": 1281,
+    "svg": "word/media/S008-second.svg"
+  },
+  "S008-summer.svg": {
+    "png": "word/media/rId375.png",
+    "png_width": 546,
+    "svg": "word/media/S008-summer.svg"
+  },
+  "S009-backward.svg": {
+    "png": "word/media/rId399.png",
+    "png_width": 945,
+    "svg": "word/media/S009-backward.svg"
+  },
+  "S009-delay.svg": {
+    "png": "word/media/rId387.png",
+    "png_width": 672,
+    "svg": "word/media/S009-delay.svg"
+  },
+  "S009-forward.svg": {
+    "png": "word/media/rId396.png",
+    "png_width": 903,
+    "svg": "word/media/S009-forward.svg"
+  },
+  "S009-gain.svg": {
+    "png": "word/media/rId390.png",
+    "png_width": 617,
+    "svg": "word/media/S009-gain.svg"
+  },
+  "S009-second.svg": {
+    "png": "word/media/rId402.png",
+    "png_width": 1281,
+    "svg": "word/media/S009-second.svg"
+  },
+  "S009-summer.svg": {
+    "png": "word/media/rId393.png",
+    "png_width": 554,
+    "svg": "word/media/S009-summer.svg"
+  },
+  "S010-system.svg": {
+    "png": "word/media/rId406.png",
+    "png_width": 1008,
+    "svg": "word/media/S010-system.svg"
+  },
+  "S023-system.svg": {
+    "png": "word/media/rId413.png",
+    "png_width": 1176,
+    "svg": "word/media/S023-system.svg"
+  },
+  "S024-distributive.svg": {
+    "png": "word/media/rId417.png",
+    "png_width": 2520,
+    "svg": "word/media/S024-distributive.svg"
+  },
+  "S031-step.svg": {
+    "png": "word/media/rId426.png",
+    "png_width": 861,
+    "svg": "word/media/S031-step.svg"
+  },
+  "S031-unit.svg": {
+    "png": "word/media/rId423.png",
+    "png_width": 748,
+    "svg": "word/media/S031-unit.svg"
+  },
+  "S039-fig-6.svg": {
+    "png": "word/media/rId433.png",
+    "png_width": 1875,
+    "svg": "word/media/S039-fig-6.svg"
+  },
+  "S039-fig-8.svg": {
+    "png": "word/media/rId436.png",
+    "png_width": 2441,
+    "svg": "word/media/S039-fig-8.svg"
+  },
+  "S040-periodic.svg": {
+    "png": "word/media/rId439.png",
+    "png_width": 1050,
+    "svg": "word/media/S040-periodic.svg"
+  },
+  "S040-spectrum.svg": {
+    "png": "word/media/rId442.png",
+    "png_width": 2058,
+    "svg": "word/media/S040-spectrum.svg"
+  },
+  "S044-exponential.svg": {
+    "png": "word/media/rId449.png",
+    "png_width": 756,
+    "svg": "word/media/S044-exponential.svg"
+  },
+  "S044-gate.svg": {
+    "png": "word/media/rId446.png",
+    "png_width": 756,
+    "svg": "word/media/S044-gate.svg"
+  },
+  "S044-two-sided.svg": {
+    "png": "word/media/rId452.png",
+    "png_width": 1197,
+    "svg": "word/media/S044-two-sided.svg"
+  },
+  "S056-impulse-train.svg": {
+    "png": "word/media/rId461.png",
+    "png_width": 2583,
+    "svg": "word/media/S056-impulse-train.svg"
+  },
+  "S056-spectra.svg": {
+    "png": "word/media/rId458.png",
+    "png_width": 2583,
+    "svg": "word/media/S056-spectra.svg"
+  },
+  "S058-lti.svg": {
+    "png": "word/media/rId465.png",
+    "png_width": 1037,
+    "svg": "word/media/S058-lti.svg"
+  },
+  "S059-distortionless.svg": {
+    "png": "word/media/rId468.png",
+    "png_width": 1701,
+    "svg": "word/media/S059-distortionless.svg"
+  },
+  "S060-ideal-lowpass.svg": {
+    "png": "word/media/rId471.png",
+    "png_width": 1701,
+    "svg": "word/media/S060-ideal-lowpass.svg"
+  },
+  "S061-ssb-modulation.svg": {
+    "png": "word/media/rId474.png",
+    "png_width": 2730,
+    "svg": "word/media/S061-ssb-modulation.svg"
+  },
+  "S065-left.svg": {
+    "png": "word/media/rId483.png",
+    "png_width": 609,
+    "svg": "word/media/S065-left.svg"
+  },
+  "S065-right.svg": {
+    "png": "word/media/rId480.png",
+    "png_width": 609,
+    "svg": "word/media/S065-right.svg"
+  },
+  "S065-strip.svg": {
+    "png": "word/media/rId486.png",
+    "png_width": 609,
+    "svg": "word/media/S065-strip.svg"
+  },
+  "S068-rect-pulse.svg": {
+    "png": "word/media/rId493.png",
+    "png_width": 2583,
+    "svg": "word/media/S068-rect-pulse.svg"
+  },
+  "S068-shifts.svg": {
+    "png": "word/media/rId490.png",
+    "png_width": 2751,
+    "svg": "word/media/S068-shifts.svg"
+  },
+  "S070-periodic-convolution.svg": {
+    "png": "word/media/rId497.png",
+    "png_width": 2730,
+    "svg": "word/media/S070-periodic-convolution.svg"
+  },
+  "S078-gain-s.svg": {
+    "png": "word/media/rId505.png",
+    "png_width": 857,
+    "svg": "word/media/S078-gain-s.svg"
+  },
+  "S078-gain-time.svg": {
+    "png": "word/media/rId502.png",
+    "png_width": 840,
+    "svg": "word/media/S078-gain-time.svg"
+  },
+  "S078-int-s.svg": {
+    "png": "word/media/rId517.png",
+    "png_width": 1092,
+    "svg": "word/media/S078-int-s.svg"
+  },
+  "S078-int-time.svg": {
+    "png": "word/media/rId514.png",
+    "png_width": 890,
+    "svg": "word/media/S078-int-time.svg"
+  },
+  "S078-sum-s.svg": {
+    "png": "word/media/rId511.png",
+    "png_width": 899,
+    "svg": "word/media/S078-sum-s.svg"
+  },
+  "S078-sum-time.svg": {
+    "png": "word/media/rId508.png",
+    "png_width": 899,
+    "svg": "word/media/S078-sum-time.svg"
+  },
+  "S078-zi-s.svg": {
+    "png": "word/media/rId523.png",
+    "png_width": 869,
+    "svg": "word/media/S078-zi-s.svg"
+  },
+  "S078-zi-time.svg": {
+    "png": "word/media/rId520.png",
+    "png_width": 869,
+    "svg": "word/media/S078-zi-time.svg"
+  },
+  "S079-c-parallel.svg": {
+    "png": "word/media/rId550.png",
+    "png_width": 638,
+    "svg": "word/media/S079-c-parallel.svg"
+  },
+  "S079-c-series.svg": {
+    "png": "word/media/rId541.png",
+    "png_width": 706,
+    "svg": "word/media/S079-c-series.svg"
+  },
+  "S079-c-time.svg": {
+    "png": "word/media/rId532.png",
+    "png_width": 622,
+    "svg": "word/media/S079-c-time.svg"
+  },
+  "S079-l-parallel.svg": {
+    "png": "word/media/rId547.png",
+    "png_width": 609,
+    "svg": "word/media/S079-l-parallel.svg"
+  },
+  "S079-l-series.svg": {
+    "png": "word/media/rId538.png",
+    "png_width": 706,
+    "svg": "word/media/S079-l-series.svg"
+  },
+  "S079-l-time.svg": {
+    "png": "word/media/rId529.png",
+    "png_width": 630,
+    "svg": "word/media/S079-l-time.svg"
+  },
+  "S079-r-parallel.svg": {
+    "png": "word/media/rId544.png",
+    "png_width": 567,
+    "svg": "word/media/S079-r-parallel.svg"
+  },
+  "S079-r-series.svg": {
+    "png": "word/media/rId535.png",
+    "png_width": 567,
+    "svg": "word/media/S079-r-series.svg"
+  },
+  "S079-r-time.svg": {
+    "png": "word/media/rId526.png",
+    "png_width": 554,
+    "svg": "word/media/S079-r-time.svg"
+  },
+  "S083-regions.svg": {
+    "png": "word/media/rId555.png",
+    "png_width": 2793,
+    "svg": "word/media/S083-regions.svg"
+  },
+  "S095-delay-k.svg": {
+    "png": "word/media/rId573.png",
+    "png_width": 840,
+    "svg": "word/media/S095-delay-k.svg"
+  },
+  "S095-delay-z.svg": {
+    "png": "word/media/rId576.png",
+    "png_width": 1071,
+    "svg": "word/media/S095-delay-z.svg"
+  },
+  "S095-gain-k.svg": {
+    "png": "word/media/rId561.png",
+    "png_width": 823,
+    "svg": "word/media/S095-gain-k.svg"
+  },
+  "S095-gain-z.svg": {
+    "png": "word/media/rId564.png",
+    "png_width": 823,
+    "svg": "word/media/S095-gain-z.svg"
+  },
+  "S095-sum-k.svg": {
+    "png": "word/media/rId567.png",
+    "png_width": 832,
+    "svg": "word/media/S095-sum-k.svg"
+  },
+  "S095-sum-z.svg": {
+    "png": "word/media/rId570.png",
+    "png_width": 903,
+    "svg": "word/media/S095-sum-z.svg"
+  },
+  "S095-zero-k.svg": {
+    "png": "word/media/rId579.png",
+    "png_width": 907,
+    "svg": "word/media/S095-zero-k.svg"
+  },
+  "S095-zero-z.svg": {
+    "png": "word/media/rId582.png",
+    "png_width": 819,
+    "svg": "word/media/S095-zero-z.svg"
+  },
+  "S099-regions.svg": {
+    "png": "word/media/rId585.png",
+    "png_width": 2184,
+    "svg": "word/media/S099-regions.svg"
+  },
+  "S102-fig-7.svg": {
+    "png": "word/media/rId590.png",
+    "png_width": 1689,
+    "svg": "word/media/S102-fig-7.svg"
+  },
+  "S103-allpass.svg": {
+    "png": "word/media/rId596.png",
+    "png_width": 840,
+    "svg": "word/media/S103-allpass.svg"
+  },
+  "S103-vectors.svg": {
+    "png": "word/media/rId593.png",
+    "png_width": 1121,
+    "svg": "word/media/S103-vectors.svg"
+  },
+  "S107-additivity.svg": {
+    "png": "word/media/rId607.png",
+    "png_width": 1260,
+    "svg": "word/media/S107-additivity.svg"
+  },
+  "S107-fig-2.svg": {
+    "png": "word/media/rId601.png",
+    "png_width": 1977,
+    "svg": "word/media/S107-fig-2.svg"
+  },
+  "S107-homogeneity.svg": {
+    "png": "word/media/rId604.png",
+    "png_width": 924,
+    "svg": "word/media/S107-homogeneity.svg"
+  },
+  "S108-parallel.svg": {
+    "png": "word/media/rId613.png",
+    "png_width": 1911,
+    "svg": "word/media/S108-parallel.svg"
+  },
+  "S108-series.svg": {
+    "png": "word/media/rId610.png",
+    "png_width": 1890,
+    "svg": "word/media/S108-series.svg"
+  },
+  "S109-feedback-reduction.svg": {
+    "png": "word/media/rId616.png",
+    "png_width": 1785,
+    "svg": "word/media/S109-feedback-reduction.svg"
+  },
+  "S110-cascade.svg": {
+    "png": "word/media/rId626.png",
+    "png_width": 1953,
+    "svg": "word/media/S110-cascade.svg"
+  },
+  "S110-direct-block.svg": {
+    "png": "word/media/rId623.png",
+    "png_width": 1999,
+    "svg": "word/media/S110-direct-block.svg"
+  },
+  "S110-direct-flow.svg": {
+    "png": "word/media/rId620.png",
+    "png_width": 1856,
+    "svg": "word/media/S110-direct-flow.svg"
+  },
+  "S111-parallel.svg": {
+    "png": "word/media/rId629.png",
+    "png_width": 1953,
+    "svg": "word/media/S111-parallel.svg"
+  },
+  "S115-state-example.svg": {
+    "png": "word/media/rId634.png",
+    "png_width": 1995,
+    "svg": "word/media/S115-state-example.svg"
+  },
+  "S121-discrete.svg": {
+    "png": "word/media/rId638.png",
+    "png_width": 1239,
+    "svg": "word/media/S121-discrete.svg"
+  },
+  "mesh-three.svg": {
+    "png": "word/media/mesh-three.png",
+    "png_width": 1680,
+    "svg": "word/media/mesh-three.svg"
+  },
+  "mesh-zero.svg": {
+    "png": "word/media/mesh-zero.png",
+    "png_width": 1980,
+    "svg": "word/media/mesh-zero.svg"
+  },
+  "node-three.svg": {
+    "png": "word/media/node-three.png",
+    "png_width": 1365,
+    "svg": "word/media/node-three.svg"
+  },
+  "source-mixed-example.svg": {
+    "png": "word/media/source-mixed-example.png",
+    "png_width": 2280,
+    "svg": "word/media/source-mixed-example.svg"
+  }
+}

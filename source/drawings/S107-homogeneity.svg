@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="89" viewBox="0 0 325 89" role="img" aria-label="S107-homogeneity"><rect width="325" height="89" fill="white"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="41" y1="62" x2="284" y2="62" stroke="#141414" stroke-width="2"/>
+<path d="M 154.5,66.48 L 162.5,62 L 154.5,57.52" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="41" cy="62" r="3.2" fill="white" stroke="#141414" stroke-width="1.55"/>
+<circle cx="284" cy="62" r="3.2" fill="white" stroke="#141414" stroke-width="1.55"/>
+<text x="41" y="43" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">X₁(s)</text>
+<text x="162.5" y="43" font-family="Times New Roman" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">H</text>
+<text x="284" y="43" font-family="STIX Two Math" font-size="25" text-anchor="middle" fill="#141414" font-style="italic">X₂(s)</text>
+</g></svg>
