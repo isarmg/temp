@@ -8,7 +8,7 @@
 <circle cx="27" cy="69" r="12" fill="#fff"/>
 <path d="M15,69 L39,69"/>
 <path d="M30.1,51.1 L27,48 L23.9,51.1"/>
-<text x="18" y="51" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">s</tspan></text>
+<text x="18" y="51" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="75%">s</tspan></text>
 <path d="M78,18 L78,53.5"/>
 <rect x="72.5" y="53.5" width="11" height="31" fill="#fff"/>
 <path d="M78,84.5 L78,115"/>
@@ -18,9 +18,9 @@
 <text x="63" y="74" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">R</text>
 <text x="107" y="74" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">L</text>
 <path d="M74.9,38.9 L78,42 L81.1,38.9"/>
-<text x="69" y="45" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">R</tspan></text>
+<text x="69" y="45" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="75%">R</tspan></text>
 <path d="M116.9,38.9 L120,42 L123.1,38.9"/>
-<text x="111" y="45" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">L</tspan></text>
+<text x="111" y="45" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="75%">L</tspan></text>
 <circle cx="120" cy="18" r="1.7" fill="#151515"/>
 <circle cx="120" cy="115" r="1.7" fill="#151515"/>
 <path d="M166,18 L166,66"/>
@@ -29,7 +29,7 @@
 <path d="M166,72 L166,115"/>
 <text x="149" y="74" text-anchor="middle" font-family="Times New Roman" font-size="15" font-style="italic" fill="#151515" stroke="none">C</text>
 <path d="M162.9,42.9 L166,46 L169.1,42.9"/>
-<text x="157" y="49" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="69%">C</tspan></text>
+<text x="157" y="49" text-anchor="end" font-family="STIX Two Math" font-size="13" font-style="italic" fill="#151515" stroke="none">İ<tspan baseline-shift="sub" font-size="75%">C</tspan></text>
 <circle cx="78" cy="18" r="1.7" fill="#151515"/>
 <circle cx="78" cy="115" r="1.7" fill="#151515"/>
 </g>

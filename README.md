@@ -1,10 +1,12 @@
 # 2024 西电 821 电路与信号系统辅导讲义
 
-## 821 A4 单列版（全面复核）
+## 821 A4 单列版（图示统一）
 
-A4 竖版单列，共 99 页。电路 6 章与信号与系统 8 章均另起一页。电路和信号与系统目录各占一页，80 项均可点击跳转。Word 正文、表格和公式可编辑。
+A4 竖版单列，共 98 页。电路 6 章与信号与系统 8 章均另起一页。电路和信号与系统目录各占一页，80 项均可点击跳转。Word 正文、表格和公式可编辑。
 
 页码在页脚居中显示，封面计为第 1 页，从目录第 2 页开始显示。目录总标题、科目、大章和小节分别为 17、14、12、10.5 磅。
+
+全书 185 张图逐一检查，104 张调整显示尺寸。统一同组对照图的显示尺度，适当放大细节偏小的标注，并调整部分图、图注与表内公式的对齐。修复三网孔图与单边带调制图的标注裁切。
 
 易串读的独立公式已分行或用标点隔开。已逐章复核卷积、傅里叶直流项、多频功率因数、端口等效及收敛域等公式和适用条件。四处分图标签已重新对齐，s 平面与 z 平面对应图已补全边界标注。
 
@@ -14,8 +16,8 @@ A4 竖版单列，共 99 页。电路 6 章与信号与系统 8 章均另起一�
 
 叠加定理与等效电阻求解方法中保留了五条笔记。全书小标题、等效电阻求解方法的 a–d 标签及笔记照片中的划线文字均已加粗。
 
-- [下载 PDF](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.16/xidian-821-reviewed.pdf)
-- [下载 Word](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.16/xidian-821-reviewed.docx)
+- [下载 PDF](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.17/xidian-821-reviewed.pdf)
+- [下载 Word](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.17/xidian-821-reviewed.docx)
 
 ## 源码与构建
 

@@ -44,26 +44,26 @@
   </g>
   <g fill="#19232d" font-family="Times New Roman" font-size="24" font-style="italic">
     <g text-anchor="middle">
-      <text x="187" y="24">r<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
-      <text x="388" y="21">E<tspan baseline-shift="sub" font-size="15" font-style="normal">4</tspan></text>
-      <text x="171" y="157">r<tspan baseline-shift="sub" font-size="15" font-style="normal">13</tspan></text>
-      <text x="397" y="157">r<tspan baseline-shift="sub" font-size="15" font-style="normal">23</tspan></text>
-      <text x="282" y="85">i<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
-      <text x="162" y="205">i<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
-      <text x="411" y="205">i<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
+      <text x="187" y="24">r<tspan baseline-shift="sub" font-size="16" font-style="normal">3</tspan></text>
+      <text x="388" y="21">E<tspan baseline-shift="sub" font-size="16" font-style="normal">4</tspan></text>
+      <text x="171" y="157">r<tspan baseline-shift="sub" font-size="16" font-style="normal">13</tspan></text>
+      <text x="397" y="157">r<tspan baseline-shift="sub" font-size="16" font-style="normal">23</tspan></text>
+      <text x="282" y="85">i<tspan baseline-shift="sub" font-size="16" font-style="normal">3</tspan></text>
+      <text x="162" y="205">i<tspan baseline-shift="sub" font-size="16" font-style="normal">1</tspan></text>
+      <text x="411" y="205">i<tspan baseline-shift="sub" font-size="16" font-style="normal">2</tspan></text>
     </g>
     <g text-anchor="end">
-      <text x="53" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
-      <text x="46" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">1</tspan></text>
+      <text x="53" y="164">r<tspan baseline-shift="sub" font-size="16" font-style="normal">1</tspan></text>
+      <text x="46" y="216">E<tspan baseline-shift="sub" font-size="16" font-style="normal">1</tspan></text>
     </g>
-    <text x="526" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
-    <text x="526" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">2</tspan></text>
-    <text x="300" y="164">r<tspan baseline-shift="sub" font-size="15" font-style="normal">12</tspan></text>
-    <text x="306" y="216">E<tspan baseline-shift="sub" font-size="15" font-style="normal">3</tspan></text>
+    <text x="526" y="164">r<tspan baseline-shift="sub" font-size="16" font-style="normal">2</tspan></text>
+    <text x="526" y="216">E<tspan baseline-shift="sub" font-size="16" font-style="normal">2</tspan></text>
+    <text x="300" y="164">r<tspan baseline-shift="sub" font-size="16" font-style="normal">12</tspan></text>
+    <text x="306" y="216">E<tspan baseline-shift="sub" font-size="16" font-style="normal">3</tspan></text>
   </g>
   <g fill="#4e6069" font-family="Times New Roman" font-size="21" font-style="italic">
-    <text x="149" y="110" aria-label="i1 减 i3">i<tspan baseline-shift="sub" font-size="14" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">3</tspan></text>
-    <text x="375" y="110" aria-label="i2 减 i3">i<tspan baseline-shift="sub" font-size="14" font-style="normal">2</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">3</tspan></text>
-    <text x="252" y="169" text-anchor="end" aria-label="i1 减 i2">i<tspan baseline-shift="sub" font-size="14" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="14" font-style="normal">2</tspan></text>
+    <text x="149" y="110" aria-label="i1 减 i3">i<tspan baseline-shift="sub" font-size="16" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="16" font-style="normal">3</tspan></text>
+    <text x="375" y="110" aria-label="i2 减 i3">i<tspan baseline-shift="sub" font-size="16" font-style="normal">2</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="16" font-style="normal">3</tspan></text>
+    <text x="252" y="169" text-anchor="end" aria-label="i1 减 i2">i<tspan baseline-shift="sub" font-size="16" font-style="normal">1</tspan><tspan font-style="normal"> − </tspan>i<tspan baseline-shift="sub" font-size="16" font-style="normal">2</tspan></text>
   </g>
 </svg>

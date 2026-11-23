@@ -21,13 +21,13 @@
     <circle cx="31" cy="85" r="1.25"/>
     <circle cx="458" cy="85" r="1.25"/>
     <g font-family="Times New Roman" font-size="20">
-      <text x="96" y="40" font-family="Times New Roman"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="13">1</tspan></text>
-      <text x="401" y="40" font-family="Times New Roman"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="13">2</tspan></text>
-      <text x="166" y="85" text-anchor="middle" font-family="Times New Roman"><tspan font-style="italic">R</tspan><tspan baseline-shift="sub" font-size="13">1</tspan></text>
-      <text x="373" y="106" font-family="Times New Roman"><tspan font-style="italic">R</tspan><tspan baseline-shift="sub" font-size="13">2</tspan></text>
+      <text x="96" y="40" font-family="Times New Roman"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="15">1</tspan></text>
+      <text x="401" y="40" font-family="Times New Roman"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="15">2</tspan></text>
+      <text x="166" y="85" text-anchor="middle" font-family="Times New Roman"><tspan font-style="italic">R</tspan><tspan baseline-shift="sub" font-size="15">1</tspan></text>
+      <text x="373" y="106" font-family="Times New Roman"><tspan font-style="italic">R</tspan><tspan baseline-shift="sub" font-size="15">2</tspan></text>
       <text x="249" y="46" text-anchor="middle" font-family="Times New Roman"><tspan font-style="italic">n</tspan><tspan>:1</tspan></text>
-      <text x="24" y="105" font-family="Times New Roman"><tspan font-style="italic">U</tspan><tspan baseline-shift="sub" font-size="13">1</tspan></text>
-      <text x="451" y="105" font-family="Times New Roman"><tspan font-style="italic">U</tspan><tspan baseline-shift="sub" font-size="13">2</tspan></text>
+      <text x="24" y="105" font-family="Times New Roman"><tspan font-style="italic">U</tspan><tspan baseline-shift="sub" font-size="15">1</tspan></text>
+      <text x="451" y="105" font-family="Times New Roman"><tspan font-style="italic">U</tspan><tspan baseline-shift="sub" font-size="15">2</tspan></text>
       <text x="44" y="69" font-family="Times New Roman">+</text><text x="44" y="158" font-family="Times New Roman">−</text>
       <text x="448" y="69" font-family="Times New Roman">+</text><text x="448" y="158" font-family="Times New Roman">−</text>
     </g>

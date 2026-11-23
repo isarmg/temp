@@ -26,8 +26,8 @@ def normalized_heading(text):
 
 
 def verify_footer(page):
-    area = fitz.Rect(0, FOOTER_TOP, page.rect.width, page.rect.height)
-    words = page.get_text("words", clip=area)
+    # Filter after extraction so cropped ActualText runs cannot join the footer.
+    words = [word for word in page.get_text("words") if word[1] >= FOOTER_TOP]
     if page.number == 0:
         assert not words, ("Unexpected number on cover", words)
         return
@@ -109,6 +109,7 @@ def verify_navigation(pdf, label_map):
             f"the first chapter on page {first_body_page + 1}, and A4 geometry throughout {len(book)} pages."
         )
 
+    return {anchor: pages.pop() for anchor, pages in page_numbers.items()}
 
 
 if __name__ == "__main__":
