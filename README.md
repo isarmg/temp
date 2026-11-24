@@ -14,14 +14,14 @@ A4 竖版单列，共 98 页。电路 6 章与信号与系统 8 章均另起一�
 
 第 17 页的特勒根定理一、二采用教材表述，含式（2.8–1）、（2.8–2a）、（2.8–2b）及功率、拟功率和两条定理关系的说明。原有「注意」及其后的内容继续收录。
 
-第 22 页「电路的初始值和初始状态」的表格新增第 ④ 项「求等效电阻」，收录手写笔记中的四条处理步骤。
+第 22 页「电路的初始值和初始状态」的表格新增第 ④ 项「求等效电阻」，收录手写笔记中的四条处理步骤。表内四项用三条横向虚线分隔。
 
 已删除考试大纲、章首复习提要、宣传信息、旧页码和教材出处标注。星级按 821 标注在对应小节。中文标题用黑体，正文用宋体，英文和常用符号采用 Times New Roman。
 
 叠加定理与等效电阻求解方法中保留了五条笔记。全书小标题、等效电阻求解方法的 a–d 标签及笔记照片中的划线文字均已加粗。
 
-- [下载 PDF](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.20/xidian-821-reviewed.pdf)
-- [下载 Word](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.20/xidian-821-reviewed.docx)
+- [下载 PDF](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.21/xidian-821-reviewed.pdf)
+- [下载 Word](https://github.com/isarmg/temp/releases/download/xidian-handout-v1.3.21/xidian-821-reviewed.docx)
 
 ## 源码与构建
 
